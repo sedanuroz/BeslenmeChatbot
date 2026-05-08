@@ -1,16 +1,12 @@
-# beslenme_app
+# Music Graph Project
 
-A new Flutter project.
+## 📄 Proje Dokümantasyonu
+Bu projenin detaylı açıklamaları, kurulum adımları ve teknik içeriği bir PDF dosyası olarak hazırlanmıştır. 
 
-## Getting Started
+Proje hakkında tüm detaylara aşağıdaki bağlantıdan ulaşabilirsiniz:
 
-This project is a starting point for a Flutter application.
+👉 [**Proje Detaylarını Görüntülemek İçin Tıklayın**](./TermProject_BeslenmeChatbot_210129036.pdf).
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+cd "C:\Users\sedan\OneDrive - atu.edu.tr\Masaüstü\beslenme_chatbot"
+venv\Scripts\activate
+uvicorn api:app --reload --host 0.0.0.0 --port 8000
