@@ -1,0 +1,16 @@
+# Python & Model Gereksizleri
+model/venv/
+model/model_output/
+model/final_model/
+model/__pycache__/
+*.pyc
+
+# Flutter & Dart Gereksizleri
+.dart_tool/
+.idea/
+build/
+.metadata
+*.iml
+
+# Veri setleri (Gerekliyse)
+# model/data/

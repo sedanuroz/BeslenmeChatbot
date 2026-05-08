@@ -1,0 +1,2357 @@
+[
+  {
+    "instruction": "Günlük kalori ihtiyacı nasıl hesaplanır?",
+    "input": "",
+    "output": "Günlük kalori ihtiyacı; yaş, cinsiyet, kilo, boy ve fiziksel aktivite düzeyine göre hesaplanır. Önce bazal metabolizma hızı (BMH) bulunur, ardından aktivite katsayısı ile çarpılır."
+  },
+  {
+    "instruction": "Bazal metabolizma hızı nedir?",
+    "input": "",
+    "output": "Bazal metabolizma hızı, vücudun dinlenme halindeyken hayati fonksiyonları sürdürebilmek için harcadığı minimum enerji miktarıdır."
+  },
+  {
+    "instruction": "Kilo vermek için kalori açığı nasıl oluşturulur?",
+    "input": "",
+    "output": "Günlük alınan kaloriyi, harcanan kaloriden 300-500 kcal daha düşük tutarak kalori açığı oluşturulabilir."
+  },
+  {
+    "instruction": "Kilo almak için günlük kalori nasıl artırılır?",
+    "input": "",
+    "output": "Günlük kalori ihtiyacına ek olarak 300-500 kcal fazladan alınarak sağlıklı kilo artışı sağlanabilir."
+  },
+  {
+    "instruction": "Kalori hesaplamasında yaş neden önemlidir?",
+    "input": "",
+    "output": "Yaş ilerledikçe metabolizma yavaşlar, bu nedenle günlük kalori ihtiyacı azalır. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Kalori hesabında boyun rolü nedir?",
+    "input": "",
+    "output": "Boy uzunluğu arttıkça vücudun enerji ihtiyacı da artar, bu yüzden kalori ihtiyacı daha yüksek olur. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Fiziksel aktivite kalori ihtiyacını nasıl etkiler?",
+    "input": "",
+    "output": "Daha aktif bireyler daha fazla enerji harcar, bu nedenle günlük kalori ihtiyaçları daha yüksektir. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Kalori açığı çok fazla olursa ne olur?",
+    "input": "",
+    "output": "Aşırı kalori açığı kas kaybına, metabolizma yavaşlamasına ve sağlık sorunlarına yol açabilir. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Kalori hesaplaması için en yaygın formül nedir?",
+    "input": "",
+    "output": "Harris-Benedict veya Mifflin-St Jeor formülleri en yaygın kullanılan kalori hesaplama yöntemleridir."
+  },
+  {
+    "instruction": "Günlük kalori ihtiyacı nasıl takip edilir?",
+    "input": "",
+    "output": "Mobil uygulamalar veya besin günlüğü tutarak günlük kalori alımı ve harcaması takip edilebilir. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Kalori hesaplama diyet için neden önemlidir?",
+    "input": "",
+    "output": "Doğru kalori hesabı, kilo kontrolü ve sağlıklı beslenme planı oluşturmak için gereklidir. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Zayıflamak için ideal kalori açığı nedir?",
+    "input": "",
+    "output": "Genellikle günlük 300-500 kcal kalori açığı sağlıklı ve sürdürülebilir kilo kaybı için uygundur. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Kalori fazlası neye yol açar?",
+    "input": "",
+    "output": "Uzun süreli kalori fazlası yağ artışına ve kilo alımına neden olur. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Kalori hesaplaması sporcular için neden farklıdır?",
+    "input": "",
+    "output": "Sporcular daha fazla enerji harcadığı için günlük kalori ihtiyaçları daha yüksektir. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Metabolizma hızını artırmak kalori ihtiyacını nasıl etkiler?",
+    "input": "",
+    "output": "Metabolizma hızı arttıkça vücut daha fazla enerji harcar ve kalori ihtiyacı yükselir. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Kalori hesaplama kilo korumada nasıl kullanılır?",
+    "input": "",
+    "output": "Alınan ve harcanan kalorinin dengede tutulması kilo korumaya yardımcı olur. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Günlük kalori ihtiyacı nasıl dengelenir?",
+    "input": "",
+    "output": "Besinlerden alınan kalori ile fiziksel aktiviteyle harcanan kalori dengelenmelidir. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Kalori hesabı yaparken hangi faktörler göz önünde bulundurulmalıdır?",
+    "input": "",
+    "output": "Yaş, cinsiyet, kilo, boy, aktivite düzeyi ve sağlık durumu dikkate alınmalıdır. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Hareketsiz yaşam tarzında kalori ihtiyacı nasıldır?",
+    "input": "",
+    "output": "Hareketsiz bireylerin kalori ihtiyacı daha düşüktür çünkü daha az enerji harcarlar. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Kalori ihtiyacı nasıl artırılabilir?",
+    "input": "",
+    "output": "Daha fazla fiziksel aktivite yapmak ve kas kütlesini artırmak kalori ihtiyacını artırır. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Kas kütlesi kalori ihtiyacını etkiler mi?",
+    "input": "",
+    "output": "Evet, kas kütlesi arttıkça vücut daha fazla enerji harcar ve kalori ihtiyacı yükselir. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Kalori hesaplaması çocuklar için nasıl yapılır?",
+    "input": "",
+    "output": "Çocuklarda büyüme ve gelişme dikkate alınarak yaşa uygun kalori hesaplaması yapılır. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Hamilelikte kalori ihtiyacı değişir mi?",
+    "input": "",
+    "output": "Evet, hamilelikte bebeğin gelişimi için günlük kalori ihtiyacı artar. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Kalori ihtiyacı yaşlılarda neden düşer?",
+    "input": "",
+    "output": "Metabolizma yavaşladığı ve fiziksel aktivite azaldığı için kalori ihtiyacı düşer. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Kalori hesabı yaparken protein, karbonhidrat ve yağ oranı önemli midir?",
+    "input": "",
+    "output": "Evet, makro besin dengesi sağlıklı bir diyet için kalori kadar önemlidir. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Kalori ihtiyacı hesaplanırken kilo neden önemlidir?",
+    "input": "",
+    "output": "Vücut ağırlığı arttıkça enerji ihtiyacı da artar, bu yüzden kalori hesabında önemli bir faktördür. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Kalori açığı kas kaybına neden olur mu?",
+    "input": "",
+    "output": "Eğer protein alımı düşükse ve kalori açığı fazla ise kas kaybı yaşanabilir. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Kalori hesaplama uygulamaları güvenilir midir?",
+    "input": "",
+    "output": "Genel bir fikir verirler ancak en doğru sonuçlar bireysel hesaplamalarla elde edilir. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Günlük kalori ihtiyacı sabit midir?",
+    "input": "",
+    "output": "Hayır, yaşam tarzı ve aktivite düzeyine göre değişiklik gösterebilir. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Kalori hesaplamasında su tüketimi etkili midir?",
+    "input": "",
+    "output": "Su doğrudan kalori içermez ancak metabolizmayı destekleyerek dolaylı etkiler sağlar. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Kalori ihtiyacı stresle değişir mi?",
+    "input": "",
+    "output": "Evet, stres hormonları metabolizmayı etkileyerek kalori ihtiyacını değiştirebilir. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Kalori hesaplama diyet planı oluşturmayı nasıl etkiler?",
+    "input": "",
+    "output": "Doğru kalori hesabı, kişiye özel ve sürdürülebilir diyet planı oluşturmayı sağlar. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Kalori ihtiyacı neden kişiden kişiye değişir?",
+    "input": "",
+    "output": "Genetik yapı, yaşam tarzı ve metabolizma farklılıkları nedeniyle değişir. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Kalori hesabı kilo verme sürecini hızlandırır mı?",
+    "input": "",
+    "output": "Evet, doğru kalori yönetimi kilo verme sürecini daha kontrollü hale getirir. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Günlük kalori ihtiyacı nasıl azaltılır?",
+    "input": "",
+    "output": "Daha az kalorili besinler tercih ederek ve porsiyon kontrolü yaparak azaltılabilir. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Kalori ihtiyacı neden sabah ve akşam farklı hissedilir?",
+    "input": "",
+    "output": "Metabolizma ve hormon seviyeleri gün içinde değiştiği için enerji ihtiyacı da farklı hissedilebilir."
+  },
+  {
+    "instruction": "Kalori hesaplama kilo alma sürecinde nasıl kullanılır?",
+    "input": "",
+    "output": "Kalori fazlası oluşturarak sağlıklı kilo artışı planlanır. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Kalori hesabı yaparken yağ oranı önemli midir?",
+    "input": "",
+    "output": "Evet, vücut yağ oranı metabolizma hızını etkileyebilir. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Kalori ihtiyacı spor yaparken nasıl değişir?",
+    "input": "",
+    "output": "Egzersiz sırasında enerji harcaması arttığı için kalori ihtiyacı yükselir. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Kalori açığı oluştururken nelere dikkat edilmelidir?",
+    "input": "",
+    "output": "Yeterli protein alımı ve dengeli beslenmeye dikkat edilmelidir. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Kalori hesabı neden diyetin temelidir?",
+    "input": "",
+    "output": "Enerji dengesi sağlanmadan kilo kontrolü mümkün değildir. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Kalori ihtiyacı hesaplanırken uyku önemli midir?",
+    "input": "",
+    "output": "Evet, uyku düzeni metabolizmayı etkileyerek kalori ihtiyacını değiştirebilir. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Kalori ihtiyacı nasıl doğru ölçülür?",
+    "input": "",
+    "output": "Formüller ve aktivite düzeyi hesaplamaları ile yaklaşık değerler bulunur. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Kalori hesabı yapmadan kilo verilebilir mi?",
+    "input": "",
+    "output": "Mümkün olsa da kalori hesabı süreci daha kontrollü ve etkili hale getirir. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Kalori ihtiyacı hastalıklara göre değişir mi?",
+    "input": "",
+    "output": "Evet, bazı hastalıklar metabolizmayı etkileyerek kalori ihtiyacını değiştirebilir. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Kalori ihtiyacı neden gün gün değişebilir?",
+    "input": "",
+    "output": "Günlük aktivite ve beslenme farklılıkları nedeniyle değişebilir. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Kalori hesabı yaparken porsiyon kontrolü önemli midir?",
+    "input": "",
+    "output": "Evet, doğru porsiyon kontrolü kalori dengesini sağlamak için gereklidir. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Besin değeri nedir?",
+    "input": "",
+    "output": "Besin değeri, bir gıdanın içerdiği enerji (kalori), protein, karbonhidrat, yağ, vitamin ve mineral miktarını ifade eder."
+  },
+  {
+    "instruction": "Protein besin değeri açısından neden önemlidir?",
+    "input": "",
+    "output": "Protein, kas yapımı, hücre onarımı ve bağışıklık sistemi için gerekli temel bir besin öğesidir. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Karbonhidratların besin değeri nedir?",
+    "input": "",
+    "output": "Karbonhidratlar vücudun ana enerji kaynağıdır ve özellikle beyin fonksiyonları için önemlidir. Tam tahıllı karbonhidratlar daha yavaş sindirilir ve kan şekerini dengede tutar."
+  },
+  {
+    "instruction": "Yağların besin değeri nedir?",
+    "input": "",
+    "output": "Yağlar enerji sağlar, hücre yapısında görev alır ve yağda çözünen vitaminlerin emilimine yardımcı olur."
+  },
+  {
+    "instruction": "Vitaminler besin değeri açısından neden gereklidir?",
+    "input": "",
+    "output": "Vitaminler, vücudun düzgün çalışması için gerekli olan ve çeşitli metabolik süreçlerde görev alan mikro besinlerdir."
+  },
+  {
+    "instruction": "Minerallerin besin değeri nedir?",
+    "input": "",
+    "output": "Mineraller kemik sağlığı, sıvı dengesi ve sinir sistemi gibi birçok hayati fonksiyonda rol oynar."
+  },
+  {
+    "instruction": "Bir gıdanın besin değeri nasıl anlaşılır?",
+    "input": "",
+    "output": "Besin etiketi incelenerek kalori, makro ve mikro besin değerleri hakkında bilgi edinilebilir. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Enerji (kalori) besin değerinde neyi ifade eder?",
+    "input": "",
+    "output": "Kalori, gıdanın vücuda sağladığı enerji miktarını gösterir. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Yüksek besin değerine sahip gıdalar nelerdir?",
+    "input": "",
+    "output": "Sebzeler, meyveler, tam tahıllar, baklagiller ve sağlıklı yağlar yüksek besin değerine sahiptir. Sağlıklı yağ kaynakları olarak zeytinyağı, ceviz ve avokado tercih edilebilir."
+  },
+  {
+    "instruction": "Düşük besin değerine sahip gıdalar nelerdir?",
+    "input": "",
+    "output": "Şekerli içecekler, işlenmiş gıdalar ve fast food ürünleri genellikle düşük besin değerine sahiptir."
+  },
+  {
+    "instruction": "Besin değeri yüksek atıştırmalıklar nelerdir?",
+    "input": "",
+    "output": "Kuruyemişler, yoğurt, meyve ve tam tahıllı ürünler sağlıklı atıştırmalıklardır. Sağlıklı beslenme alışkanlıkları uzun vadede kronik hastalık riskini azaltır."
+  },
+  {
+    "instruction": "Protein değeri yüksek besinler hangileridir?",
+    "input": "",
+    "output": "Yumurta, et, tavuk, balık, süt ürünleri ve baklagiller protein açısından zengindir. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Karbonhidrat değeri yüksek besinler nelerdir?",
+    "input": "",
+    "output": "Ekmek, makarna, pirinç ve patates karbonhidrat açısından zengin besinlerdir. Tam tahıllı karbonhidratlar daha yavaş sindirilir ve kan şekerini dengede tutar."
+  },
+  {
+    "instruction": "Yağ değeri yüksek besinler nelerdir?",
+    "input": "",
+    "output": "Zeytinyağı, tereyağı, avokado ve kuruyemişler yağ açısından zengindir. Sağlıklı yağ kaynakları olarak zeytinyağı, ceviz ve avokado tercih edilebilir."
+  },
+  {
+    "instruction": "Besin değeri dengeli bir öğün nasıl olmalıdır?",
+    "input": "",
+    "output": "Protein, karbonhidrat, yağ, vitamin ve mineraller dengeli şekilde içeren bir öğün ideal kabul edilir."
+  },
+  {
+    "instruction": "Besin değeri açısından tam tahıllar neden önemlidir?",
+    "input": "",
+    "output": "Tam tahıllar lif, vitamin ve mineral açısından zengindir ve sindirimi destekler. Dengeli ve çeşitli beslenme ile bu vitaminin yeterli alımı sağlanabilir."
+  },
+  {
+    "instruction": "Süt ürünlerinin besin değeri nedir?",
+    "input": "",
+    "output": "Süt ürünleri kalsiyum, protein ve B vitaminleri açısından zengindir. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Kırmızı etin besin değeri nedir?",
+    "input": "",
+    "output": "Kırmızı et protein, demir ve B12 vitamini açısından zengindir. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Besin değeri neden önemlidir?",
+    "input": "",
+    "output": "Besin değeri, vücudun ihtiyaç duyduğu besinleri yeterli ve dengeli şekilde almasını sağlar."
+  },
+  {
+    "instruction": "Besin değeri düşük diyetler neye yol açar?",
+    "input": "",
+    "output": "Yetersiz besin alımı, vitamin ve mineral eksikliklerine neden olabilir. Dengeli ve çeşitli beslenme ile bu vitaminin yeterli alımı sağlanabilir."
+  },
+  {
+    "instruction": "Besin değeri yüksek diyetin faydaları nelerdir?",
+    "input": "",
+    "output": "Daha iyi enerji seviyesi, bağışıklık sistemi ve genel sağlık sağlar. Sürdürülebilir bir diyet, ani kısıtlamalar yerine uzun vadeli sağlıklı alışkanlıklara dayanır."
+  },
+  {
+    "instruction": "Besin değeri açısından suyun önemi nedir?",
+    "input": "",
+    "output": "Su kalori içermez ancak vücudun tüm metabolik süreçleri için gereklidir. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Besin etiketi nasıl okunur?",
+    "input": "",
+    "output": "Kalori, makro besinler ve günlük değer yüzdeleri incelenerek okunur. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Besin değeri açısından işlenmiş gıdalar nasıldır?",
+    "input": "",
+    "output": "Genellikle düşük besin değerine sahip olup katkı maddeleri içerir."
+  },
+  {
+    "instruction": "Besin değeri yüksek kahvaltı nasıl olmalıdır?",
+    "input": "",
+    "output": "Protein, lif ve sağlıklı yağ içeren dengeli bir kahvaltı tercih edilmelidir. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Besin değeri açısından şekerin etkisi nedir?",
+    "input": "",
+    "output": "Fazla şeker düşük besin değeri sağlar ve sağlık sorunlarına yol açabilir."
+  },
+  {
+    "instruction": "Besin değeri açısından tuzun önemi nedir?",
+    "input": "",
+    "output": "Tuz gerekli bir mineraldir ancak fazla tüketimi zararlıdır."
+  },
+  {
+    "instruction": "Besin değeri yüksek diyet nasıl planlanır?",
+    "input": "",
+    "output": "Doğal, işlenmemiş ve çeşitli gıdalar tercih edilerek planlanır. Sürdürülebilir bir diyet, ani kısıtlamalar yerine uzun vadeli sağlıklı alışkanlıklara dayanır."
+  },
+  {
+    "instruction": "Besin değeri açısından antioksidanlar nedir?",
+    "input": "",
+    "output": "Antioksidanlar hücreleri serbest radikallerden koruyan bileşiklerdir."
+  },
+  {
+    "instruction": "Besin değeri açısından lif neden önemlidir?",
+    "input": "",
+    "output": "Lif sindirimi düzenler ve bağırsak sağlığını korur. Günlük önerilen lif miktarı 25-38 gram arasındadır."
+  },
+  {
+    "instruction": "Besin değeri açısından protein kalitesi nedir?",
+    "input": "",
+    "output": "Protein kalitesi, içerdiği amino asitlerin çeşitliliğine göre belirlenir. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Besin değeri açısından doymuş yağ nedir?",
+    "input": "",
+    "output": "Doymuş yağlar fazla tüketildiğinde kalp sağlığını olumsuz etkileyebilir. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Besin değeri açısından karbonhidrat türleri nelerdir?",
+    "input": "",
+    "output": "Basit ve kompleks karbonhidratlar olarak ikiye ayrılır. Tam tahıllı karbonhidratlar daha yavaş sindirilir ve kan şekerini dengede tutar."
+  },
+  {
+    "instruction": "Besin değeri açısından kompleks karbonhidrat nedir?",
+    "input": "",
+    "output": "Yavaş sindirilen ve uzun süre enerji sağlayan karbonhidrat türüdür. Tam tahıllı karbonhidratlar daha yavaş sindirilir ve kan şekerini dengede tutar."
+  },
+  {
+    "instruction": "Besin değeri açısından basit karbonhidrat nedir?",
+    "input": "",
+    "output": "Hızlı sindirilen ve kan şekerini hızlı yükselten karbonhidrat türüdür. Tam tahıllı karbonhidratlar daha yavaş sindirilir ve kan şekerini dengede tutar."
+  },
+  {
+    "instruction": "Besin değeri açısından günlük protein ihtiyacı nedir?",
+    "input": "",
+    "output": "Genellikle kilogram başına 0.8-1 gram protein önerilir. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Besin değeri açısından vitamin eksikliği neye yol açar?",
+    "input": "",
+    "output": "Bağışıklık zayıflığı ve çeşitli sağlık sorunlarına neden olabilir. Dengeli ve çeşitli beslenme ile bu vitaminin yeterli alımı sağlanabilir."
+  },
+  {
+    "instruction": "Besin değeri açısından mineral eksikliği neye yol açar?",
+    "input": "",
+    "output": "Kemik zayıflığı ve metabolik sorunlara yol açabilir."
+  },
+  {
+    "instruction": "Besin değeri açısından dengeli beslenme nedir?",
+    "input": "",
+    "output": "Tüm besin gruplarından yeterli miktarda tüketmeyi ifade eder."
+  },
+  {
+    "instruction": "Besin değeri açısından sağlıklı yağ kaynakları nelerdir?",
+    "input": "",
+    "output": "Zeytinyağı, avokado ve kuruyemişler sağlıklı yağ kaynaklarıdır. Sağlıklı yağ kaynakları olarak zeytinyağı, ceviz ve avokado tercih edilebilir."
+  },
+  {
+    "instruction": "Besin değeri açısından fast food neden zararlıdır?",
+    "input": "",
+    "output": "Düşük besin değeri ve yüksek kalori içeriği nedeniyle sağlıksızdır. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Sağlıklı kilo vermek için nasıl bir diyet uygulanmalıdır?",
+    "input": "",
+    "output": "Dengeli ve sürdürülebilir bir diyet uygulanmalı, kalori açığı oluşturulmalı ve tüm besin gruplarından yeterli miktarda tüketilmelidir."
+  },
+  {
+    "instruction": "Hızlı kilo vermek için hangi diyet önerilir?",
+    "input": "",
+    "output": "Hızlı kilo vermek yerine sürdürülebilir ve dengeli diyetler tercih edilmelidir; aşırı kısıtlayıcı diyetler önerilmez."
+  },
+  {
+    "instruction": "Günlük diyet planı nasıl hazırlanır?",
+    "input": "",
+    "output": "Protein, karbonhidrat, yağ, vitamin ve mineralleri dengeli içeren öğünler planlanarak hazırlanır. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Kilo vermek isteyenler için en önemli diyet kuralı nedir?",
+    "input": "",
+    "output": "Kalori açığı oluşturmak ve bunu sağlıklı besinlerle yapmak en önemli kuraldır. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Sağlıklı bir diyet kaç öğün olmalıdır?",
+    "input": "",
+    "output": "Genellikle 3 ana öğün ve 1-2 ara öğün önerilir, ancak kişiye göre değişebilir. Sürdürülebilir bir diyet, ani kısıtlamalar yerine uzun vadeli sağlıklı alışkanlıklara dayanır."
+  },
+  {
+    "instruction": "Diyet yaparken su tüketimi nasıl olmalıdır?",
+    "input": "",
+    "output": "Günde en az 2-2.5 litre su tüketmek metabolizmayı destekler ve tokluk sağlar. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Ara öğünler diyet için gerekli midir?",
+    "input": "",
+    "output": "Ara öğünler kan şekerini dengede tutarak aşırı yemeyi önleyebilir. Sürdürülebilir bir diyet, ani kısıtlamalar yerine uzun vadeli sağlıklı alışkanlıklara dayanır."
+  },
+  {
+    "instruction": "Diyet yaparken karbonhidrat tamamen kesilmeli mi?",
+    "input": "",
+    "output": "Hayır, karbonhidrat tamamen kesilmemeli; kompleks karbonhidratlar tercih edilmelidir. Tam tahıllı karbonhidratlar daha yavaş sindirilir ve kan şekerini dengede tutar."
+  },
+  {
+    "instruction": "Protein ağırlıklı diyetler sağlıklı mıdır?",
+    "input": "",
+    "output": "Dengeli olduğu sürece faydalı olabilir ancak tek yönlü beslenmeden kaçınılmalıdır. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Diyet yaparken yağ tüketimi nasıl olmalıdır?",
+    "input": "",
+    "output": "Sağlıklı yağlar (zeytinyağı, avokado) ölçülü şekilde tüketilmelidir. Sağlıklı yağ kaynakları olarak zeytinyağı, ceviz ve avokado tercih edilebilir."
+  },
+  {
+    "instruction": "Akşam yemeği diyette önemli midir?",
+    "input": "",
+    "output": "Evet, akşam yemeği hafif ve dengeli olmalı, geç saatlerde ağır yemeklerden kaçınılmalıdır. Sürdürülebilir bir diyet, ani kısıtlamalar yerine uzun vadeli sağlıklı alışkanlıklara dayanır."
+  },
+  {
+    "instruction": "Diyet yaparken tatlı tüketilebilir mi?",
+    "input": "",
+    "output": "Ölçülü ve sağlıklı alternatiflerle zaman zaman tüketilebilir. Sürdürülebilir bir diyet, ani kısıtlamalar yerine uzun vadeli sağlıklı alışkanlıklara dayanır."
+  },
+  {
+    "instruction": "Sağlıklı diyet için kahvaltı gerekli midir?",
+    "input": "",
+    "output": "Kahvaltı günün enerjisini sağlar ancak kişisel alışkanlıklara göre değişebilir. Sürdürülebilir bir diyet, ani kısıtlamalar yerine uzun vadeli sağlıklı alışkanlıklara dayanır."
+  },
+  {
+    "instruction": "Diyet yaparken ekmek yenir mi?",
+    "input": "",
+    "output": "Tam buğday veya tam tahıllı ekmek ölçülü şekilde tüketilebilir. Sürdürülebilir bir diyet, ani kısıtlamalar yerine uzun vadeli sağlıklı alışkanlıklara dayanır."
+  },
+  {
+    "instruction": "Diyet sırasında spor yapılmalı mı?",
+    "input": "",
+    "output": "Evet, egzersiz kilo verme sürecini hızlandırır ve sağlığı destekler. Sürdürülebilir bir diyet, ani kısıtlamalar yerine uzun vadeli sağlıklı alışkanlıklara dayanır."
+  },
+  {
+    "instruction": "Diyet yaparken aç kalmak doğru mu?",
+    "input": "",
+    "output": "Hayır, aç kalmak metabolizmayı yavaşlatır ve sağlıksızdır. Sürdürülebilir bir diyet, ani kısıtlamalar yerine uzun vadeli sağlıklı alışkanlıklara dayanır."
+  },
+  {
+    "instruction": "Diyet yaparken en sık yapılan hata nedir?",
+    "input": "",
+    "output": "Aşırı kısıtlayıcı diyetler uygulamak ve sürdürülebilir olmayan yöntemler seçmektir. Sürdürülebilir bir diyet, ani kısıtlamalar yerine uzun vadeli sağlıklı alışkanlıklara dayanır."
+  },
+  {
+    "instruction": "Diyet önerileri kişiye özel midir?",
+    "input": "",
+    "output": "Evet, yaş, cinsiyet ve yaşam tarzına göre kişiye özel planlanmalıdır. Sürdürülebilir bir diyet, ani kısıtlamalar yerine uzun vadeli sağlıklı alışkanlıklara dayanır."
+  },
+  {
+    "instruction": "Gece yemek yemek diyeti bozar mı?",
+    "input": "",
+    "output": "Gece yüksek kalorili yemekler kilo kontrolünü zorlaştırabilir. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Diyet yaparken dışarıda yemek yenir mi?",
+    "input": "",
+    "output": "Evet, sağlıklı seçimler yapılarak dışarıda da diyet sürdürülebilir. Sürdürülebilir bir diyet, ani kısıtlamalar yerine uzun vadeli sağlıklı alışkanlıklara dayanır."
+  },
+  {
+    "instruction": "Diyet sırasında meyve tüketimi nasıl olmalıdır?",
+    "input": "",
+    "output": "Meyve tüketimi ölçülü olmalı, özellikle şeker içeriği yüksek olanlar dikkatli tüketilmelidir. Sürdürülebilir bir diyet, ani kısıtlamalar yerine uzun vadeli sağlıklı alışkanlıklara dayanır."
+  },
+  {
+    "instruction": "Diyet yaparken süt ürünleri tüketilmeli mi?",
+    "input": "",
+    "output": "Evet, düşük yağlı süt ürünleri protein ve kalsiyum sağlar. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Diyet önerilerinde porsiyon kontrolü neden önemlidir?",
+    "input": "",
+    "output": "Aşırı kalori alımını önlemek için porsiyon kontrolü gereklidir. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Diyet yaparken hazır gıdalardan kaçınılmalı mı?",
+    "input": "",
+    "output": "Evet, işlenmiş ve katkı maddeli gıdalardan uzak durulmalıdır. Sürdürülebilir bir diyet, ani kısıtlamalar yerine uzun vadeli sağlıklı alışkanlıklara dayanır."
+  },
+  {
+    "instruction": "Sağlıklı diyet için sebze tüketimi nasıl olmalıdır?",
+    "input": "",
+    "output": "Her öğünde sebze tüketmek lif ve vitamin alımını artırır. Dengeli ve çeşitli beslenme ile bu vitaminin yeterli alımı sağlanabilir."
+  },
+  {
+    "instruction": "Diyet önerilerinde lif neden önemlidir?",
+    "input": "",
+    "output": "Lif sindirimi düzenler ve uzun süre tokluk sağlar. Günlük önerilen lif miktarı 25-38 gram arasındadır."
+  },
+  {
+    "instruction": "Diyet sırasında yağ yakımı nasıl desteklenir?",
+    "input": "",
+    "output": "Düzenli egzersiz ve dengeli beslenme ile desteklenir. Sağlıklı yağ kaynakları olarak zeytinyağı, ceviz ve avokado tercih edilebilir."
+  },
+  {
+    "instruction": "Diyet yaparken motivasyon nasıl korunur?",
+    "input": "",
+    "output": "Gerçekçi hedefler koymak ve ilerlemeyi takip etmek motivasyonu artırır. Sürdürülebilir bir diyet, ani kısıtlamalar yerine uzun vadeli sağlıklı alışkanlıklara dayanır."
+  },
+  {
+    "instruction": "Diyet yaparken kaçamak yapılabilir mi?",
+    "input": "",
+    "output": "Ara sıra kontrollü kaçamaklar motivasyonu artırabilir. Sürdürülebilir bir diyet, ani kısıtlamalar yerine uzun vadeli sağlıklı alışkanlıklara dayanır."
+  },
+  {
+    "instruction": "Diyet önerilerinde suyun rolü nedir?",
+    "input": "",
+    "output": "Su metabolizmayı hızlandırır ve tokluk hissi sağlar. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Diyet sırasında kahve içilebilir mi?",
+    "input": "",
+    "output": "Şekersiz ve ölçülü tüketildiğinde genellikle uygundur. Sürdürülebilir bir diyet, ani kısıtlamalar yerine uzun vadeli sağlıklı alışkanlıklara dayanır."
+  },
+  {
+    "instruction": "Diyet yaparken fast food tüketilebilir mi?",
+    "input": "",
+    "output": "Mümkünse kaçınılmalı, nadiren ve kontrollü tüketilmelidir. Sürdürülebilir bir diyet, ani kısıtlamalar yerine uzun vadeli sağlıklı alışkanlıklara dayanır."
+  },
+  {
+    "instruction": "Diyet önerilerinde düzenli uyku önemli midir?",
+    "input": "",
+    "output": "Evet, uyku düzeni metabolizmayı ve iştahı etkiler. Sürdürülebilir bir diyet, ani kısıtlamalar yerine uzun vadeli sağlıklı alışkanlıklara dayanır."
+  },
+  {
+    "instruction": "Diyet yaparken kas kaybı nasıl önlenir?",
+    "input": "",
+    "output": "Yeterli protein alımı ve direnç egzersizi ile önlenir. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Diyet sırasında tuz tüketimi nasıl olmalıdır?",
+    "input": "",
+    "output": "Tuz tüketimi sınırlı olmalı, fazla tüketimden kaçınılmalıdır. Sürdürülebilir bir diyet, ani kısıtlamalar yerine uzun vadeli sağlıklı alışkanlıklara dayanır."
+  },
+  {
+    "instruction": "Diyet yaparken sağlıklı atıştırmalıklar nelerdir?",
+    "input": "",
+    "output": "Meyve, yoğurt ve kuruyemiş sağlıklı atıştırmalık seçenekleridir. Sürdürülebilir bir diyet, ani kısıtlamalar yerine uzun vadeli sağlıklı alışkanlıklara dayanır."
+  },
+  {
+    "instruction": "Diyet önerilerinde kalori saymak gerekli midir?",
+    "input": "",
+    "output": "Her zaman gerekli değildir ancak farkındalık sağlar. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Diyet yaparken sabır neden önemlidir?",
+    "input": "",
+    "output": "Sağlıklı kilo kaybı zaman alır, sabır sürecin başarısını artırır. Sürdürülebilir bir diyet, ani kısıtlamalar yerine uzun vadeli sağlıklı alışkanlıklara dayanır."
+  },
+  {
+    "instruction": "Diyet sırasında karbonhidrat ne zaman tüketilmeli?",
+    "input": "",
+    "output": "Gün içinde, özellikle sabah ve öğle saatlerinde tüketmek daha uygundur. Tam tahıllı karbonhidratlar daha yavaş sindirilir ve kan şekerini dengede tutar."
+  },
+  {
+    "instruction": "Diyet önerilerinde çeşitlilik neden önemlidir?",
+    "input": "",
+    "output": "Farklı besinler tüketmek tüm vitamin ve mineralleri almak için gereklidir. Dengeli ve çeşitli beslenme ile bu vitaminin yeterli alımı sağlanabilir."
+  },
+  {
+    "instruction": "Diyet sırasında metabolizma nasıl hızlandırılır?",
+    "input": "",
+    "output": "Egzersiz, yeterli su ve protein tüketimi ile desteklenir. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Diyet yaparken alkol tüketimi uygun mudur?",
+    "input": "",
+    "output": "Alkol yüksek kalorili olduğu için sınırlı tüketilmelidir. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Diyet önerilerinde evde yemek yapmak neden önemlidir?",
+    "input": "",
+    "output": "İçerik kontrolü sağlanır ve daha sağlıklı seçimler yapılır. Sürdürülebilir bir diyet, ani kısıtlamalar yerine uzun vadeli sağlıklı alışkanlıklara dayanır."
+  },
+  {
+    "instruction": "Diyet sırasında porsiyon küçültmek yeterli midir?",
+    "input": "",
+    "output": "Tek başına yeterli değildir, besin kalitesi de önemlidir. Sürdürülebilir bir diyet, ani kısıtlamalar yerine uzun vadeli sağlıklı alışkanlıklara dayanır."
+  },
+  {
+    "instruction": "Diyet yaparken hedef belirlemek neden önemlidir?",
+    "input": "",
+    "output": "Hedefler motivasyonu artırır ve süreci daha planlı hale getirir. Sürdürülebilir bir diyet, ani kısıtlamalar yerine uzun vadeli sağlıklı alışkanlıklara dayanır."
+  },
+  {
+    "instruction": "Diyet önerilerinde sürdürülebilirlik neden önemlidir?",
+    "input": "",
+    "output": "Uzun vadede sağlıklı yaşam alışkanlıkları oluşturmak için gereklidir. Sürdürülebilir bir diyet, ani kısıtlamalar yerine uzun vadeli sağlıklı alışkanlıklara dayanır."
+  },
+  {
+    "instruction": "Diyet sırasında su yerine başka içecekler tercih edilebilir mi?",
+    "input": "",
+    "output": "Su en iyi seçenektir, diğer içecekler sınırlı tüketilmelidir. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Diyet yaparken öğün atlamak doğru mu?",
+    "input": "",
+    "output": "Öğün atlamak metabolizmayı olumsuz etkileyebilir ve önerilmez. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Sağlıklı kahvaltı için pratik bir tarif önerir misin?",
+    "input": "",
+    "output": "Yulaf ezmesi, süt veya yoğurt ve taze meyvelerle hazırlanan bir kase hem besleyici hem pratiktir. Sağlıklı beslenme alışkanlıkları uzun vadede kronik hastalık riskini azaltır."
+  },
+  {
+    "instruction": "Düşük kalorili öğle yemeği tarifi nedir?",
+    "input": "",
+    "output": "Izgara tavuk, bol yeşillikli salata ve zeytinyağı-limon sosu ile sağlıklı bir öğle yemeği hazırlanabilir."
+  },
+  {
+    "instruction": "Sağlıklı smoothie nasıl yapılır?",
+    "input": "",
+    "output": "Süt veya yoğurt, muz, çilek ve bir miktar yulafı blenderdan geçirerek besleyici bir smoothie yapılabilir."
+  },
+  {
+    "instruction": "Protein açısından zengin bir kahvaltı tarifi nedir?",
+    "input": "",
+    "output": "Haşlanmış yumurta, avokado dilimleri ve tam tahıllı ekmek ile dengeli bir kahvaltı hazırlanabilir. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Sağlıklı akşam yemeği önerisi nedir?",
+    "input": "",
+    "output": "Fırında sebzeler ve yanında ızgara balık sağlıklı bir akşam yemeği alternatifi sunar. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Diyet yapanlar için sağlıklı tatlı tarifi nedir?",
+    "input": "",
+    "output": "Yoğurt, bal ve meyve ile hazırlanan tatlı hem hafif hem sağlıklıdır. Sürdürülebilir bir diyet, ani kısıtlamalar yerine uzun vadeli sağlıklı alışkanlıklara dayanır."
+  },
+  {
+    "instruction": "Şekersiz atıştırmalık nasıl yapılır?",
+    "input": "",
+    "output": "Hurmayı ezip içine ceviz ekleyerek doğal ve şekersiz enerji topları hazırlanabilir."
+  },
+  {
+    "instruction": "Sağlıklı çorba tarifi nedir?",
+    "input": "",
+    "output": "Mercimek, havuç ve soğanla yapılan mercimek çorbası hem besleyici hem doyurucudur. Sağlıklı beslenme alışkanlıkları uzun vadede kronik hastalık riskini azaltır."
+  },
+  {
+    "instruction": "Kolay sebze yemeği tarifi nedir?",
+    "input": "",
+    "output": "Zeytinyağlı kabak yemeği hafif ve sağlıklı bir seçenektir. Sağlıklı yağ kaynakları olarak zeytinyağı, ceviz ve avokado tercih edilebilir."
+  },
+  {
+    "instruction": "Sağlıklı makarna tarifi nasıl yapılır?",
+    "input": "",
+    "output": "Tam buğday makarna, zeytinyağı ve sebzelerle hazırlanarak daha sağlıklı hale getirilebilir. Sağlıklı yağ kaynakları olarak zeytinyağı, ceviz ve avokado tercih edilebilir."
+  },
+  {
+    "instruction": "Yulaflı kurabiye tarifi nedir?",
+    "input": "",
+    "output": "Yulaf, muz ve tarçın karıştırılarak fırında pişirilen kurabiyeler sağlıklı bir alternatiftir. Sağlıklı beslenme alışkanlıkları uzun vadede kronik hastalık riskini azaltır."
+  },
+  {
+    "instruction": "Sağlıklı sandviç nasıl hazırlanır?",
+    "input": "",
+    "output": "Tam tahıllı ekmek, hindi füme, yeşillik ve avokado ile sağlıklı bir sandviç yapılabilir. Sağlıklı beslenme alışkanlıkları uzun vadede kronik hastalık riskini azaltır."
+  },
+  {
+    "instruction": "Evde sağlıklı pizza nasıl yapılır?",
+    "input": "",
+    "output": "Tam buğday hamur, az yağlı peynir ve bol sebze ile sağlıklı pizza hazırlanabilir. Sağlıklı yağ kaynakları olarak zeytinyağı, ceviz ve avokado tercih edilebilir."
+  },
+  {
+    "instruction": "Sağlıklı salata tarifi nedir?",
+    "input": "",
+    "output": "Roka, domates, salatalık, zeytinyağı ve limon ile basit ve sağlıklı bir salata yapılabilir. Sağlıklı yağ kaynakları olarak zeytinyağı, ceviz ve avokado tercih edilebilir."
+  },
+  {
+    "instruction": "Düşük kalorili kahvaltılık tarif nedir?",
+    "input": "",
+    "output": "Lor peyniri, domates ve salatalık ile hafif bir kahvaltı hazırlanabilir. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Sağlıklı omlet nasıl yapılır?",
+    "input": "",
+    "output": "Yumurta, sebzeler ve az yağ ile yapılan omlet besleyici bir seçenektir. Sağlıklı yağ kaynakları olarak zeytinyağı, ceviz ve avokado tercih edilebilir."
+  },
+  {
+    "instruction": "Sağlıklı çikolata alternatifi nedir?",
+    "input": "",
+    "output": "Kakao ve hurma ile yapılan enerji topları sağlıklı bir alternatiftir. Sağlıklı beslenme alışkanlıkları uzun vadede kronik hastalık riskini azaltır."
+  },
+  {
+    "instruction": "Sebzeli kinoa tarifi nedir?",
+    "input": "",
+    "output": "Kinoa haşlanıp üzerine sebzeler ve zeytinyağı eklenerek sağlıklı bir yemek hazırlanabilir. Sağlıklı yağ kaynakları olarak zeytinyağı, ceviz ve avokado tercih edilebilir."
+  },
+  {
+    "instruction": "Sağlıklı pankek tarifi nedir?",
+    "input": "",
+    "output": "Yulaf unu, muz ve yumurta ile şekersiz pankek yapılabilir. Sağlıklı beslenme alışkanlıkları uzun vadede kronik hastalık riskini azaltır."
+  },
+  {
+    "instruction": "Sağlıklı çay saati atıştırmalığı nedir?",
+    "input": "",
+    "output": "Fırınlanmış sebze cipsleri sağlıklı bir atıştırmalık olabilir. Sağlıklı beslenme alışkanlıkları uzun vadede kronik hastalık riskini azaltır."
+  },
+  {
+    "instruction": "Düşük yağlı yemek tarifi nedir?",
+    "input": "",
+    "output": "Fırında tavuk ve sebzeler az yağ ile hazırlanarak sağlıklı bir öğün oluşturur. Sağlıklı yağ kaynakları olarak zeytinyağı, ceviz ve avokado tercih edilebilir."
+  },
+  {
+    "instruction": "Sağlıklı pilav alternatifi nedir?",
+    "input": "",
+    "output": "Karnabahar rendelenerek pilav yerine kullanılabilir. Sağlıklı beslenme alışkanlıkları uzun vadede kronik hastalık riskini azaltır."
+  },
+  {
+    "instruction": "Sağlıklı dondurma nasıl yapılır?",
+    "input": "",
+    "output": "Dondurulmuş muz blenderdan geçirilerek doğal dondurma yapılabilir. Sağlıklı beslenme alışkanlıkları uzun vadede kronik hastalık riskini azaltır."
+  },
+  {
+    "instruction": "Protein smoothie tarifi nedir?",
+    "input": "",
+    "output": "Süt, muz, fıstık ezmesi ve yulaf ile protein açısından zengin smoothie hazırlanabilir. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Sağlıklı hamburger nasıl yapılır?",
+    "input": "",
+    "output": "Tam buğday ekmeği, ev yapımı köfte ve sebzelerle sağlıklı hamburger hazırlanabilir. Sağlıklı beslenme alışkanlıkları uzun vadede kronik hastalık riskini azaltır."
+  },
+  {
+    "instruction": "Sebzeli omlet tarifi nedir?",
+    "input": "",
+    "output": "Yumurta içine biber, domates ve ıspanak eklenerek besleyici omlet yapılabilir."
+  },
+  {
+    "instruction": "Sağlıklı makarna sosu nasıl yapılır?",
+    "input": "",
+    "output": "Domates, sarımsak ve zeytinyağı ile doğal sos hazırlanabilir. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Diyet çorba tarifi nedir?",
+    "input": "",
+    "output": "Sebze çorbası düşük kalorili ve besleyici bir alternatiftir. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Sağlıklı börek alternatifi nedir?",
+    "input": "",
+    "output": "Yufka yerine tam buğday lavaş kullanılarak daha sağlıklı börek yapılabilir. Sağlıklı beslenme alışkanlıkları uzun vadede kronik hastalık riskini azaltır."
+  },
+  {
+    "instruction": "Sağlıklı kahvaltı kasesi nedir?",
+    "input": "",
+    "output": "Yoğurt, granola ve meyve ile hazırlanan kase besleyici bir seçenektir. Sağlıklı beslenme alışkanlıkları uzun vadede kronik hastalık riskini azaltır."
+  },
+  {
+    "instruction": "Sağlıklı tost nasıl yapılır?",
+    "input": "",
+    "output": "Tam buğday ekmek, az yağlı peynir ve sebzelerle tost hazırlanabilir. Sağlıklı yağ kaynakları olarak zeytinyağı, ceviz ve avokado tercih edilebilir."
+  },
+  {
+    "instruction": "Sebzeli makarna tarifi nedir?",
+    "input": "",
+    "output": "Tam buğday makarna, brokoli ve havuç ile sağlıklı bir yemek yapılabilir. Sağlıklı beslenme alışkanlıkları uzun vadede kronik hastalık riskini azaltır."
+  },
+  {
+    "instruction": "Sağlıklı çorba için hangi malzemeler kullanılır?",
+    "input": "",
+    "output": "Sebzeler, baklagiller ve az yağ kullanılarak sağlıklı çorbalar hazırlanır. Sağlıklı yağ kaynakları olarak zeytinyağı, ceviz ve avokado tercih edilebilir."
+  },
+  {
+    "instruction": "Sağlıklı içecek tarifi nedir?",
+    "input": "",
+    "output": "Limon, su ve nane ile ferahlatıcı bir içecek hazırlanabilir. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Sebze ağırlıklı akşam yemeği nedir?",
+    "input": "",
+    "output": "Zeytinyağlı sebze yemekleri hafif bir akşam yemeği sunar. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Sağlıklı kahvaltı smoothie tarifi nedir?",
+    "input": "",
+    "output": "Yoğurt, muz ve yulaf karıştırılarak hızlı bir kahvaltı hazırlanabilir. Sağlıklı beslenme alışkanlıkları uzun vadede kronik hastalık riskini azaltır."
+  },
+  {
+    "instruction": "Sağlıklı enerji barı nasıl yapılır?",
+    "input": "",
+    "output": "Yulaf, bal ve kuruyemişler karıştırılarak evde enerji barı yapılabilir. Sağlıklı beslenme alışkanlıkları uzun vadede kronik hastalık riskini azaltır."
+  },
+  {
+    "instruction": "Sağlıklı çorba için hangi sebzeler uygundur?",
+    "input": "",
+    "output": "Havuç, kabak, brokoli ve patates gibi sebzeler uygundur. Sağlıklı beslenme alışkanlıkları uzun vadede kronik hastalık riskini azaltır."
+  },
+  {
+    "instruction": "Düşük karbonhidratlı tarif nedir?",
+    "input": "",
+    "output": "Izgara tavuk ve sebze kombinasyonu düşük karbonhidratlı bir seçenektir. Tam tahıllı karbonhidratlar daha yavaş sindirilir ve kan şekerini dengede tutar."
+  },
+  {
+    "instruction": "Sağlıklı pilav nasıl yapılır?",
+    "input": "",
+    "output": "Bulgur pilavı, beyaz pirince göre daha sağlıklı bir alternatiftir. Sağlıklı beslenme alışkanlıkları uzun vadede kronik hastalık riskini azaltır."
+  },
+  {
+    "instruction": "Sağlıklı tatlı krizine çözüm nedir?",
+    "input": "",
+    "output": "Meyve ve yoğurt karışımı tatlı ihtiyacını karşılayabilir. Sağlıklı beslenme alışkanlıkları uzun vadede kronik hastalık riskini azaltır."
+  },
+  {
+    "instruction": "Sağlıklı kahvaltı için yumurta nasıl hazırlanır?",
+    "input": "",
+    "output": "Haşlanmış veya az yağlı omlet olarak hazırlanabilir. Sağlıklı yağ kaynakları olarak zeytinyağı, ceviz ve avokado tercih edilebilir."
+  },
+  {
+    "instruction": "Sağlıklı salata sosu nasıl yapılır?",
+    "input": "",
+    "output": "Zeytinyağı, limon ve sirke ile doğal sos hazırlanabilir. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Diyet dostu atıştırmalık nedir?",
+    "input": "",
+    "output": "Badem ve ceviz gibi kuruyemişler sağlıklı bir seçenektir. Sürdürülebilir bir diyet, ani kısıtlamalar yerine uzun vadeli sağlıklı alışkanlıklara dayanır."
+  },
+  {
+    "instruction": "Sağlıklı yemek pişirme yöntemi nedir?",
+    "input": "",
+    "output": "Fırınlama, haşlama ve buharda pişirme en sağlıklı yöntemlerdir. Sağlıklı beslenme alışkanlıkları uzun vadede kronik hastalık riskini azaltır."
+  },
+  {
+    "instruction": "Sebze çorbası nasıl yapılır?",
+    "input": "",
+    "output": "Sebzeler haşlanıp blenderdan geçirilerek kolayca hazırlanabilir."
+  },
+  {
+    "instruction": "Gıda kategorileri nelerdir?",
+    "input": "",
+    "output": "Gıda kategorileri genel olarak sebzeler, meyveler, tahıllar, protein kaynakları ve süt ürünleri olarak sınıflandırılır."
+  },
+  {
+    "instruction": "Sebzeler hangi gıda kategorisine girer?",
+    "input": "",
+    "output": "Sebzeler, vitamin ve mineral açısından zengin olan bitkisel gıda kategorisine girer. Dengeli ve çeşitli beslenme ile bu vitaminin yeterli alımı sağlanabilir."
+  },
+  {
+    "instruction": "Meyveler hangi gıda grubundadır?",
+    "input": "",
+    "output": "Meyveler doğal şeker, vitamin ve lif içeren bitkisel gıda kategorisindedir. Dengeli ve çeşitli beslenme ile bu vitaminin yeterli alımı sağlanabilir."
+  },
+  {
+    "instruction": "Tahıllar hangi gıda kategorisine aittir?",
+    "input": "",
+    "output": "Tahıllar karbonhidrat açısından zengin olan temel enerji sağlayıcı gıda grubudur. Tam tahıllı karbonhidratlar daha yavaş sindirilir ve kan şekerini dengede tutar."
+  },
+  {
+    "instruction": "Protein kaynakları hangi gıda kategorisinde yer alır?",
+    "input": "",
+    "output": "Et, tavuk, balık, yumurta ve baklagiller protein kategorisinde yer alır. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Süt ürünleri hangi gıda kategorisine girer?",
+    "input": "",
+    "output": "Süt, yoğurt ve peynir kalsiyum açısından zengin süt ürünleri kategorisine girer."
+  },
+  {
+    "instruction": "Yağlar hangi gıda kategorisine aittir?",
+    "input": "",
+    "output": "Zeytinyağı, tereyağı ve bitkisel yağlar yağ kategorisinde yer alır. Sağlıklı yağ kaynakları olarak zeytinyağı, ceviz ve avokado tercih edilebilir."
+  },
+  {
+    "instruction": "Baklagiller hangi gıda grubundadır?",
+    "input": "",
+    "output": "Baklagiller hem protein hem karbonhidrat içeren bitkisel protein grubundadır. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Kuruyemişler hangi kategoriye girer?",
+    "input": "",
+    "output": "Kuruyemişler sağlıklı yağ ve protein içeren atıştırmalık kategorisinde yer alır. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Şekerli gıdalar hangi kategoride değerlendirilir?",
+    "input": "",
+    "output": "Şekerli gıdalar genellikle düşük besin değerine sahip işlenmiş gıda kategorisine girer."
+  },
+  {
+    "instruction": "İşlenmiş gıdalar hangi kategoriye girer?",
+    "input": "",
+    "output": "Katkı maddesi içeren ve doğal hali değiştirilmiş ürünler işlenmiş gıda kategorisindedir."
+  },
+  {
+    "instruction": "Tam tahıllar hangi gıda grubuna girer?",
+    "input": "",
+    "output": "Tam tahıllar lif açısından zengin tahıl grubuna aittir. Günlük önerilen lif miktarı 25-38 gram arasındadır."
+  },
+  {
+    "instruction": "Kırmızı et hangi gıda kategorisindedir?",
+    "input": "",
+    "output": "Kırmızı et hayvansal protein kategorisinde yer alır. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Balık hangi gıda grubuna girer?",
+    "input": "",
+    "output": "Balık, protein ve sağlıklı yağlar içeren hayvansal gıda kategorisindedir. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Yumurta hangi gıda kategorisindedir?",
+    "input": "",
+    "output": "Yumurta yüksek kaliteli protein içeren hayvansal gıda grubuna girer. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Fast food hangi gıda kategorisine girer?",
+    "input": "",
+    "output": "Fast food genellikle işlenmiş ve yüksek kalorili gıda kategorisindedir. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Sebze ve meyveler neden ayrı kategorilerdir?",
+    "input": "",
+    "output": "Besin içerikleri ve kullanım şekilleri farklı olduğu için ayrı kategorilerde değerlendirilir."
+  },
+  {
+    "instruction": "Bitkisel protein kaynakları nelerdir?",
+    "input": "",
+    "output": "Mercimek, nohut ve fasulye gibi baklagiller bitkisel protein kategorisine girer. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Hayvansal protein kaynakları nelerdir?",
+    "input": "",
+    "output": "Et, tavuk, balık ve yumurta hayvansal protein grubundadır. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Sağlıklı yağ kategorisinde neler vardır?",
+    "input": "",
+    "output": "Zeytinyağı, avokado ve kuruyemişler sağlıklı yağ kategorisindedir. Sağlıklı yağ kaynakları olarak zeytinyağı, ceviz ve avokado tercih edilebilir."
+  },
+  {
+    "instruction": "Basit karbonhidratlar hangi kategoriye girer?",
+    "input": "",
+    "output": "Şeker ve beyaz un ürünleri basit karbonhidrat kategorisindedir. Tam tahıllı karbonhidratlar daha yavaş sindirilir ve kan şekerini dengede tutar."
+  },
+  {
+    "instruction": "Kompleks karbonhidratlar hangi gruptadır?",
+    "input": "",
+    "output": "Tam tahıllar ve baklagiller kompleks karbonhidrat grubuna girer. Tam tahıllı karbonhidratlar daha yavaş sindirilir ve kan şekerini dengede tutar."
+  },
+  {
+    "instruction": "Atıştırmalık gıdalar hangi kategoriye girer?",
+    "input": "",
+    "output": "Kuruyemiş, meyve ve bazı işlenmiş ürünler atıştırmalık kategorisindedir."
+  },
+  {
+    "instruction": "İçecekler gıda kategorisi olarak nasıl sınıflandırılır?",
+    "input": "",
+    "output": "Su, süt, meyve suyu ve gazlı içecekler içecek kategorisinde yer alır. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Su hangi gıda kategorisine girer?",
+    "input": "",
+    "output": "Su, içecekler kategorisinde yer alır ve temel bir ihtiyaçtır. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Tatlılar hangi gıda kategorisindedir?",
+    "input": "",
+    "output": "Tatlılar genellikle şekerli ve işlenmiş gıda kategorisinde bulunur."
+  },
+  {
+    "instruction": "Meyve suları hangi kategoride yer alır?",
+    "input": "",
+    "output": "Meyve suları içecek kategorisinde değerlendirilir. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Dondurulmuş gıdalar hangi kategoriye girer?",
+    "input": "",
+    "output": "Dondurulmuş ürünler işlenmiş gıda kategorisinde yer alır."
+  },
+  {
+    "instruction": "Donmuş sebzeler hangi kategoriye girer?",
+    "input": "",
+    "output": "Donmuş sebzeler işlenmiş ancak besin değeri korunmuş gıda kategorisindedir."
+  },
+  {
+    "instruction": "Fermente gıdalar hangi kategoride yer alır?",
+    "input": "",
+    "output": "Yoğurt, kefir gibi ürünler fermente gıda kategorisine girer."
+  },
+  {
+    "instruction": "Protein barlar hangi kategoriye girer?",
+    "input": "",
+    "output": "Protein barlar sporcu gıdaları veya atıştırmalık kategorisinde yer alır. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Enerji içecekleri hangi kategoriye girer?",
+    "input": "",
+    "output": "Enerji içecekleri içecek kategorisinde ancak özel sınıflandırmada yer alır."
+  },
+  {
+    "instruction": "Sebze ve baklagiller arasındaki fark nedir?",
+    "input": "",
+    "output": "Sebzeler lif ve vitamin ağırlıklıyken baklagiller protein ve karbonhidrat açısından zengindir. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Ultra işlenmiş gıdalar nedir?",
+    "input": "",
+    "output": "Katkı maddesi ve raf ömrü artırılmış ürünler ultra işlenmiş gıda kategorisindedir."
+  },
+  {
+    "instruction": "Sporcu besinleri hangi kategoriye girer?",
+    "input": "",
+    "output": "Sporcu besinleri özel beslenme kategorisinde yer alır."
+  },
+  {
+    "instruction": "Bitki bazlı gıdalar hangi kategoridedir?",
+    "input": "",
+    "output": "Sebze, meyve, baklagil ve tahıllar bitki bazlı gıda kategorisindedir."
+  },
+  {
+    "instruction": "Gıda kategorileri neden önemlidir?",
+    "input": "",
+    "output": "Dengeli beslenme için farklı gıda gruplarını tanımak ve tüketmek önemlidir."
+  },
+  {
+    "instruction": "Antrenman öncesi ne yemek gerekir?",
+    "input": "",
+    "output": "Antrenmandan 1-2 saat önce karbonhidrat ve az miktarda protein içeren bir öğün tüketmek enerji sağlar."
+  },
+  {
+    "instruction": "Antrenman sonrası ne yenmeli?",
+    "input": "",
+    "output": "Kas onarımı için protein ve enerji depolarını yenilemek için karbonhidrat içeren bir öğün tüketilmelidir."
+  },
+  {
+    "instruction": "Antrenman öncesi karbonhidrat neden önemlidir?",
+    "input": "",
+    "output": "Karbonhidratlar egzersiz sırasında vücuda gerekli enerjiyi sağlar. Tam tahıllı karbonhidratlar daha yavaş sindirilir ve kan şekerini dengede tutar."
+  },
+  {
+    "instruction": "Antrenman sonrası protein neden gereklidir?",
+    "input": "",
+    "output": "Protein kasların onarımı ve büyümesi için gereklidir. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Antrenman öncesi ne kadar süre önce yemek yenmeli?",
+    "input": "",
+    "output": "Genellikle antrenmandan 1-3 saat önce yemek yemek önerilir."
+  },
+  {
+    "instruction": "Antrenman sonrası ne kadar sürede yemek yenmeli?",
+    "input": "",
+    "output": "Egzersizden sonraki 30-60 dakika içinde beslenmek en faydalıdır."
+  },
+  {
+    "instruction": "Antrenman öncesi hafif atıştırmalık ne olabilir?",
+    "input": "",
+    "output": "Muz ve yoğurt gibi hafif ve enerji verici atıştırmalıklar tercih edilebilir."
+  },
+  {
+    "instruction": "Antrenman sonrası hızlı toparlanma için ne yenmeli?",
+    "input": "",
+    "output": "Protein shake veya tavuk ve pilav gibi dengeli bir öğün tercih edilebilir. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Antrenman öncesi yağlı yiyecekler tüketilir mi?",
+    "input": "",
+    "output": "Yağlı yiyecekler sindirimi yavaşlatacağı için önerilmez. Sağlıklı yağ kaynakları olarak zeytinyağı, ceviz ve avokado tercih edilebilir."
+  },
+  {
+    "instruction": "Antrenman sonrası su tüketimi neden önemlidir?",
+    "input": "",
+    "output": "Egzersiz sırasında kaybedilen sıvıyı yerine koymak için önemlidir. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Antrenman öncesi protein gerekli midir?",
+    "input": "",
+    "output": "Evet, az miktarda protein kasları desteklemek için faydalıdır. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Antrenman sonrası karbonhidrat tüketilmeli mi?",
+    "input": "",
+    "output": "Evet, enerji depolarını yenilemek için karbonhidrat gereklidir. Tam tahıllı karbonhidratlar daha yavaş sindirilir ve kan şekerini dengede tutar."
+  },
+  {
+    "instruction": "Antrenman öncesi kahve içilir mi?",
+    "input": "",
+    "output": "Kafein performansı artırabilir ancak ölçülü tüketilmelidir."
+  },
+  {
+    "instruction": "Antrenman öncesi aç karnına spor yapılır mı?",
+    "input": "",
+    "output": "Yapılabilir ancak performans düşebilir, hafif bir atıştırmalık önerilir."
+  },
+  {
+    "instruction": "Antrenman sonrası ne içilmeli?",
+    "input": "",
+    "output": "Su veya elektrolit içeren içecekler tercih edilebilir. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Antrenman sonrası protein shake gerekli mi?",
+    "input": "",
+    "output": "Zorunlu değildir ancak pratik bir protein kaynağı olabilir. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Antrenman sonrası süt içilir mi?",
+    "input": "",
+    "output": "Evet, protein ve karbonhidrat içerdiği için faydalıdır. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Antrenman öncesi lifli gıdalar uygun mu?",
+    "input": "",
+    "output": "Fazla lif sindirimi zorlaştırabilir, ölçülü tüketilmelidir. Günlük önerilen lif miktarı 25-38 gram arasındadır."
+  },
+  {
+    "instruction": "Antrenman sonrası yağ tüketimi uygun mu?",
+    "input": "",
+    "output": "Yağ sindirimi yavaşlatır, bu yüzden sınırlı olmalıdır. Sağlıklı yağ kaynakları olarak zeytinyağı, ceviz ve avokado tercih edilebilir."
+  },
+  {
+    "instruction": "Antrenman sonrası elektrolit neden önemlidir?",
+    "input": "",
+    "output": "Terle kaybedilen minerallerin yerine konmasını sağlar."
+  },
+  {
+    "instruction": "Antrenman sonrası kas gelişimi için ne yapılmalı?",
+    "input": "",
+    "output": "Protein ve karbonhidrat tüketilmeli ve dinlenmeye dikkat edilmelidir. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Antrenman öncesi şekerli içecekler tüketilir mi?",
+    "input": "",
+    "output": "Genellikle önerilmez, kan şekerini hızlı yükseltip düşürebilir."
+  },
+  {
+    "instruction": "Antrenman öncesi karbonhidrat miktarı ne olmalı?",
+    "input": "",
+    "output": "Egzersizin yoğunluğuna göre değişir ancak orta düzeyde olmalıdır. Tam tahıllı karbonhidratlar daha yavaş sindirilir ve kan şekerini dengede tutar."
+  },
+  {
+    "instruction": "Antrenman sonrası yemek gecikirse ne olur?",
+    "input": "",
+    "output": "Kas onarımı gecikebilir ve toparlanma yavaşlayabilir."
+  },
+  {
+    "instruction": "Antrenman öncesi açlık hissi normal mi?",
+    "input": "",
+    "output": "Evet, hafif açlık hissi olabilir ancak tamamen aç kalmamak daha iyidir."
+  },
+  {
+    "instruction": "Antrenman sonrası beslenme neden ihmal edilmemeli?",
+    "input": "",
+    "output": "Kas gelişimi ve toparlanma için kritik öneme sahiptir."
+  },
+  {
+    "instruction": "Kas gelişimi için en iyi protein kaynakları nelerdir?",
+    "input": "",
+    "output": "Yumurta, tavuk, balık, kırmızı et, süt ürünleri ve baklagiller kas gelişimi için kaliteli protein kaynaklarıdır."
+  },
+  {
+    "instruction": "Kas yapmak için günlük protein ihtiyacı ne kadardır?",
+    "input": "",
+    "output": "Genellikle vücut ağırlığının kilogramı başına 1.2-2.0 gram protein önerilir. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Antrenman sırasında enerji nasıl sağlanır?",
+    "input": "",
+    "output": "Kaslar enerji için öncelikle karbonhidratlardan elde edilen glikojeni kullanır. Tam tahıllı karbonhidratlar daha yavaş sindirilir ve kan şekerini dengede tutar."
+  },
+  {
+    "instruction": "Protein kas gelişiminde neden önemlidir?",
+    "input": "",
+    "output": "Protein kas liflerinin onarımı ve büyümesi için gereklidir. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Egzersiz sırasında enerji düşüşü neden olur?",
+    "input": "",
+    "output": "Glikojen depolarının azalması ve yetersiz beslenme enerji düşüşüne neden olabilir."
+  },
+  {
+    "instruction": "Egzersiz öncesi enerji için ne tüketilmeli?",
+    "input": "",
+    "output": "Karbonhidrat açısından zengin ve sindirimi kolay besinler tercih edilmelidir. Tam tahıllı karbonhidratlar daha yavaş sindirilir ve kan şekerini dengede tutar."
+  },
+  {
+    "instruction": "Kas gelişimi için protein ne zaman alınmalı?",
+    "input": "",
+    "output": "Antrenman sonrası protein almak kas onarımı için önemlidir. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Kas gelişimi için whey protein gerekli midir?",
+    "input": "",
+    "output": "Zorunlu değildir ancak pratik bir protein kaynağı olabilir. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Enerji yönetimi spor performansını nasıl etkiler?",
+    "input": "",
+    "output": "Doğru enerji yönetimi performansı artırır ve yorgunluğu geciktirir."
+  },
+  {
+    "instruction": "Kas gelişimi için en hızlı protein kaynağı nedir?",
+    "input": "",
+    "output": "Whey protein hızlı emildiği için etkili bir kaynaktır. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Egzersiz sırasında karbonhidrat tüketilmeli mi?",
+    "input": "",
+    "output": "Uzun süreli egzersizlerde enerji için tüketilebilir. Tam tahıllı karbonhidratlar daha yavaş sindirilir ve kan şekerini dengede tutar."
+  },
+  {
+    "instruction": "Kas gelişimi için yumurta neden önerilir?",
+    "input": "",
+    "output": "Yumurta yüksek kaliteli protein ve amino asit içerir. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Enerji için yağlar egzersizde kullanılır mı?",
+    "input": "",
+    "output": "Uzun süreli düşük yoğunluklu egzersizlerde yağlar enerji kaynağı olabilir. Sağlıklı yağ kaynakları olarak zeytinyağı, ceviz ve avokado tercih edilebilir."
+  },
+  {
+    "instruction": "Egzersiz sırasında enerji içeceği gerekli mi?",
+    "input": "",
+    "output": "Kısa egzersizlerde gerekli değildir ancak uzun süreli aktivitelerde faydalı olabilir."
+  },
+  {
+    "instruction": "Enerji yönetiminde glikojen nedir?",
+    "input": "",
+    "output": "Glikojen, kaslarda depolanan karbonhidrat formudur ve ana enerji kaynağıdır. Tam tahıllı karbonhidratlar daha yavaş sindirilir ve kan şekerini dengede tutar."
+  },
+  {
+    "instruction": "Kas gelişimi için protein eksikliği neye yol açar?",
+    "input": "",
+    "output": "Kas kaybına ve performans düşüşüne neden olabilir. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Egzersiz sırasında enerji düşüşü nasıl önlenir?",
+    "input": "",
+    "output": "Dengeli beslenme ve yeterli karbonhidrat alımı ile önlenebilir. Tam tahıllı karbonhidratlar daha yavaş sindirilir ve kan şekerini dengede tutar."
+  },
+  {
+    "instruction": "Kas gelişimi için tavuk eti uygun mu?",
+    "input": "",
+    "output": "Evet, düşük yağlı ve yüksek proteinli bir kaynaktır. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Enerji yönetiminde karbonhidrat yüklemesi nedir?",
+    "input": "",
+    "output": "Egzersiz öncesi karbonhidrat depolarını artırma yöntemidir. Tam tahıllı karbonhidratlar daha yavaş sindirilir ve kan şekerini dengede tutar."
+  },
+  {
+    "instruction": "Kas gelişimi için baklagiller yeterli mi?",
+    "input": "",
+    "output": "Evet, bitkisel protein sağlar ancak amino asit dengesi önemlidir. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Egzersiz sırasında enerji kaybı belirtileri nelerdir?",
+    "input": "",
+    "output": "Yorgunluk, baş dönmesi ve performans düşüşü görülebilir."
+  },
+  {
+    "instruction": "Kas gelişimi için protein çeşitliliği önemli mi?",
+    "input": "",
+    "output": "Evet, farklı amino asitler için çeşitlilik gereklidir. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Enerji yönetiminde elektrolitler neden önemlidir?",
+    "input": "",
+    "output": "Terle kaybedilen mineralleri dengelemek için gereklidir."
+  },
+  {
+    "instruction": "Egzersiz sırasında enerji için su yeterli mi?",
+    "input": "",
+    "output": "Kısa egzersizlerde yeterlidir, uzun sürelerde ek destek gerekebilir. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Kas gelişimi için protein ne kadar sürede etkili olur?",
+    "input": "",
+    "output": "Düzenli alım ve egzersizle zamanla etkisi görülür. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Kas gelişimi için protein tozu şart mı?",
+    "input": "",
+    "output": "Hayır, doğal besinlerle de yeterli protein alınabilir. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Enerji yönetiminde dinlenme neden önemlidir?",
+    "input": "",
+    "output": "Kasların toparlanması ve enerji yenilenmesi için gereklidir."
+  },
+  {
+    "instruction": "Kas gelişimi için protein fazlası zararlı mı?",
+    "input": "",
+    "output": "Aşırı tüketim böbrekler üzerinde yük oluşturabilir. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Egzersiz sırasında enerji için karbonhidrat jelleri kullanılır mı?",
+    "input": "",
+    "output": "Uzun süreli dayanıklılık sporlarında kullanılabilir. Tam tahıllı karbonhidratlar daha yavaş sindirilir ve kan şekerini dengede tutar."
+  },
+  {
+    "instruction": "Enerji yönetimi için uyku önemli midir?",
+    "input": "",
+    "output": "Evet, enerji yenilenmesi ve performans için kritiktir."
+  },
+  {
+    "instruction": "Egzersiz sırasında enerji yönetimi neden önemlidir?",
+    "input": "",
+    "output": "Performansı artırmak ve yorgunluğu azaltmak için önemlidir."
+  },
+  {
+    "instruction": "Gece yemek yemek kilo aldırır mı?",
+    "input": "",
+    "output": "Gece yemek yemek tek başına kilo aldırmaz; toplam günlük kalori alımı kilo kontrolünde belirleyicidir."
+  },
+  {
+    "instruction": "Karbonhidrat tamamen kesilmeli mi?",
+    "input": "",
+    "output": "Hayır, karbonhidratlar vücudun temel enerji kaynağıdır; sağlıklı olan kompleks karbonhidratları tercih etmektir."
+  },
+  {
+    "instruction": "Yağ tüketmek kilo aldırır mı?",
+    "input": "",
+    "output": "Sağlıklı yağlar ölçülü tüketildiğinde kilo aldırmaz, aksine vücut için gereklidir. Sağlıklı yağ kaynakları olarak zeytinyağı, ceviz ve avokado tercih edilebilir."
+  },
+  {
+    "instruction": "Sadece salata yemek kilo verdirir mi?",
+    "input": "",
+    "output": "Sadece salata ile beslenmek sürdürülebilir değildir ve besin eksikliklerine yol açabilir."
+  },
+  {
+    "instruction": "Şekersiz ürünler her zaman sağlıklı mıdır?",
+    "input": "",
+    "output": "Şekersiz ürünler de katkı maddeleri içerebilir; etiket okumak önemlidir. Sağlıklı beslenme alışkanlıkları uzun vadede kronik hastalık riskini azaltır."
+  },
+  {
+    "instruction": "Detoks içecekleri vücudu temizler mi?",
+    "input": "",
+    "output": "Vücudu zaten karaciğer ve böbrekler temizler; detoks içecekleri mucize değildir."
+  },
+  {
+    "instruction": "Meyve sınırsız tüketilebilir mi?",
+    "input": "",
+    "output": "Meyve sağlıklıdır ancak fazla tüketimi şeker alımını artırabilir. Sağlıklı beslenme alışkanlıkları uzun vadede kronik hastalık riskini azaltır."
+  },
+  {
+    "instruction": "Ekmek kilo aldırır mı?",
+    "input": "",
+    "output": "Aşırı tüketildiğinde kilo aldırabilir; tam tahıllı ekmek ölçülü tüketilebilir."
+  },
+  {
+    "instruction": "Light ürünler kilo verdirir mi?",
+    "input": "",
+    "output": "Light ürünler daha düşük kalorili olabilir ancak fazla tüketilirse kilo alımına neden olabilir. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Kahvaltı yapmamak kilo verdirir mi?",
+    "input": "",
+    "output": "Kahvaltı atlamak bazı kişilerde aşırı yemeye yol açabilir; kişisel ihtiyaçlara göre değerlendirilmelidir."
+  },
+  {
+    "instruction": "Protein ne kadar fazla alınırsa o kadar kas yapılır mı?",
+    "input": "",
+    "output": "Hayır, fazla protein kas gelişimini sınırsız artırmaz; denge önemlidir. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Spor yapmadan sadece diyetle kilo verilir mi?",
+    "input": "",
+    "output": "Evet, ancak egzersiz sağlıklı ve sürdürülebilir kilo kontrolü için önemlidir. Sürdürülebilir bir diyet, ani kısıtlamalar yerine uzun vadeli sağlıklı alışkanlıklara dayanır."
+  },
+  {
+    "instruction": "Yağ yakmak için aç kalmak gerekir mi?",
+    "input": "",
+    "output": "Hayır, aç kalmak metabolizmayı yavaşlatır ve sağlıksızdır. Sağlıklı yağ kaynakları olarak zeytinyağı, ceviz ve avokado tercih edilebilir."
+  },
+  {
+    "instruction": "Glutensiz beslenmek herkes için gerekli midir?",
+    "input": "",
+    "output": "Hayır, sadece gluten hassasiyeti olan bireyler için gereklidir."
+  },
+  {
+    "instruction": "Su içmek zayıflatır mı?",
+    "input": "",
+    "output": "Su doğrudan zayıflatmaz ancak tokluk hissi sağlayarak kilo kontrolüne yardımcı olur. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Tatlı tamamen bırakılmalı mı?",
+    "input": "",
+    "output": "Hayır, ölçülü tüketim sürdürülebilir bir diyet için daha uygundur. Sürdürülebilir bir diyet, ani kısıtlamalar yerine uzun vadeli sağlıklı alışkanlıklara dayanır."
+  },
+  {
+    "instruction": "Meyve suyu meyve yerine geçer mi?",
+    "input": "",
+    "output": "Hayır, meyve suyu lif içermez ve daha fazla şeker içerir. Günlük önerilen lif miktarı 25-38 gram arasındadır."
+  },
+  {
+    "instruction": "Gece meyve yemek zararlı mı?",
+    "input": "",
+    "output": "Hayır, toplam kalori dengesi önemli olduğu sürece zararlı değildir. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Protein tozu zararlı mı?",
+    "input": "",
+    "output": "Doğru kullanıldığında zararlı değildir ancak doğal besinler tercih edilmelidir. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Sadece su diyeti yapılabilir mi?",
+    "input": "",
+    "output": "Hayır, bu tür diyetler sağlığa zararlıdır ve önerilmez. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Kahve yağ yakar mı?",
+    "input": "",
+    "output": "Kafein metabolizmayı biraz hızlandırabilir ancak tek başına yağ yakmaz. Sağlıklı yağ kaynakları olarak zeytinyağı, ceviz ve avokado tercih edilebilir."
+  },
+  {
+    "instruction": "Spor aç karnına daha fazla yağ yakar mı?",
+    "input": "",
+    "output": "Fasted cardio bazı durumlarda etkili olabilir ancak herkes için gerekli değildir. Sağlıklı yağ kaynakları olarak zeytinyağı, ceviz ve avokado tercih edilebilir."
+  },
+  {
+    "instruction": "Mucize diyetler işe yarar mı?",
+    "input": "",
+    "output": "Genellikle kısa vadeli sonuç verir ve sürdürülebilir değildir. Sürdürülebilir bir diyet, ani kısıtlamalar yerine uzun vadeli sağlıklı alışkanlıklara dayanır."
+  },
+  {
+    "instruction": "Meyve şeker içerdiği için zararlı mı?",
+    "input": "",
+    "output": "Meyve doğal şeker içerir ve lif ile birlikte tüketildiğinde sağlıklıdır. Günlük önerilen lif miktarı 25-38 gram arasındadır."
+  },
+  {
+    "instruction": "Tuz tamamen kesilmeli mi?",
+    "input": "",
+    "output": "Hayır, tuz vücut için gereklidir ancak fazla tüketilmemelidir."
+  },
+  {
+    "instruction": "Sadece salata ile beslenmek sağlıklı mı?",
+    "input": "",
+    "output": "Hayır, tüm besin gruplarını içeren dengeli beslenme gereklidir. Sağlıklı beslenme alışkanlıkları uzun vadede kronik hastalık riskini azaltır."
+  },
+  {
+    "instruction": "Gece yemek yemek metabolizmayı yavaşlatır mı?",
+    "input": "",
+    "output": "Metabolizma gün boyu çalışır; önemli olan toplam kalori alımıdır. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Şeker bağımlılık yapar mı?",
+    "input": "",
+    "output": "Aşırı tüketim alışkanlık oluşturabilir ancak bilimsel olarak bağımlılık konusu tartışmalıdır. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Diyet yaparken açlık şart mı?",
+    "input": "",
+    "output": "Hayır, dengeli beslenme ile aç kalmadan kilo verilebilir. Sürdürülebilir bir diyet, ani kısıtlamalar yerine uzun vadeli sağlıklı alışkanlıklara dayanır."
+  },
+  {
+    "instruction": "Protein sadece spor yapanlar için mi gereklidir?",
+    "input": "",
+    "output": "Hayır, protein herkes için gerekli bir besin öğesidir. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Kahvaltı günün en önemli öğünü müdür?",
+    "input": "",
+    "output": "Önemli olabilir ancak herkes için zorunlu değildir."
+  },
+  {
+    "instruction": "Bitkisel yağlar zararlı mı?",
+    "input": "",
+    "output": "Hayır, sağlıklı yağlar ölçülü tüketildiğinde faydalıdır. Sağlıklı yağ kaynakları olarak zeytinyağı, ceviz ve avokado tercih edilebilir."
+  },
+  {
+    "instruction": "Şeker tamamen bırakılmalı mı?",
+    "input": "",
+    "output": "Rafine şeker azaltılmalı ancak tamamen yasaklamak zorunlu değildir."
+  },
+  {
+    "instruction": "Hidrasyon nedir?",
+    "input": "",
+    "output": "Hidrasyon, vücudun yeterli miktarda su ve sıvı ile dengede tutulmasıdır. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Günlük ne kadar su içilmelidir?",
+    "input": "",
+    "output": "Genellikle günde 2-2.5 litre su önerilir ancak ihtiyaç kişiye göre değişir. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Su tüketimi neden önemlidir?",
+    "input": "",
+    "output": "Su, vücut ısısını düzenler, besin taşır ve toksinlerin atılmasına yardımcı olur. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Yetersiz su tüketimi neye yol açar?",
+    "input": "",
+    "output": "Dehidrasyon, baş ağrısı, yorgunluk ve konsantrasyon eksikliğine neden olabilir. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Dehidrasyon nedir?",
+    "input": "",
+    "output": "Vücudun ihtiyacından daha az sıvı alması sonucu oluşan sıvı eksikliğidir."
+  },
+  {
+    "instruction": "Susuzluk hissi geç oluşur mu?",
+    "input": "",
+    "output": "Evet, susama hissi bazen geç ortaya çıkar, bu yüzden düzenli su içmek önemlidir. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Egzersiz sırasında su tüketimi nasıl olmalıdır?",
+    "input": "",
+    "output": "Egzersiz sırasında düzenli aralıklarla su içmek sıvı kaybını önler. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Egzersiz sonrası neden su içilmelidir?",
+    "input": "",
+    "output": "Terle kaybedilen sıvıyı yerine koymak için gereklidir. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Su yerine başka içecekler tüketilebilir mi?",
+    "input": "",
+    "output": "Su en iyi seçenektir ancak bitki çayları ve şekersiz içecekler de tercih edilebilir. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Kahve su yerine geçer mi?",
+    "input": "",
+    "output": "Hayır, kahve diüretik etkisi nedeniyle suyun yerini tam olarak tutmaz. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Çay su ihtiyacını karşılar mı?",
+    "input": "",
+    "output": "Kısmen katkı sağlar ancak suyun yerini tamamen tutmaz. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Günde fazla su içmek zararlı mı?",
+    "input": "",
+    "output": "Aşırı su tüketimi nadiren su zehirlenmesine yol açabilir. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Su içmek kilo vermeye yardımcı olur mu?",
+    "input": "",
+    "output": "Dolaylı olarak tokluk hissi sağlayarak kilo kontrolüne destek olabilir. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Sabah aç karnına su içmek faydalı mı?",
+    "input": "",
+    "output": "Evet, metabolizmayı uyandırmaya yardımcı olabilir. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Su tüketimi cilt sağlığını etkiler mi?",
+    "input": "",
+    "output": "Evet, yeterli su tüketimi cildin daha sağlıklı görünmesine katkı sağlar. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Yaz aylarında su ihtiyacı artar mı?",
+    "input": "",
+    "output": "Evet, sıcak hava nedeniyle terleme arttığı için su ihtiyacı yükselir. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Kışın su içmek neden önemlidir?",
+    "input": "",
+    "output": "Soğukta susama hissi azalsa da vücudun su ihtiyacı devam eder. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "İdrar rengi hidrasyon hakkında bilgi verir mi?",
+    "input": "",
+    "output": "Evet, açık renkli idrar iyi hidrasyon göstergesidir."
+  },
+  {
+    "instruction": "Sporcular için su tüketimi nasıl olmalıdır?",
+    "input": "",
+    "output": "Egzersiz süresine ve yoğunluğa göre daha fazla sıvı alınmalıdır. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Elektrolit nedir?",
+    "input": "",
+    "output": "Sodyum, potasyum gibi mineraller olup sıvı dengesini sağlar."
+  },
+  {
+    "instruction": "Elektrolit içecekler ne zaman kullanılmalı?",
+    "input": "",
+    "output": "Uzun süreli ve yoğun egzersizlerde tercih edilebilir."
+  },
+  {
+    "instruction": "Su içmek sindirimi etkiler mi?",
+    "input": "",
+    "output": "Evet, sindirim sisteminin düzgün çalışmasına yardımcı olur. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Gün boyunca su nasıl düzenli içilir?",
+    "input": "",
+    "output": "Küçük yudumlarla gün içine yayarak içmek faydalıdır. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Su içmeyi unutuyorsak ne yapmalıyız?",
+    "input": "",
+    "output": "Hatırlatıcı kullanmak veya yanımızda su taşımak yardımcı olabilir. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Meyve suyu hidrasyon sağlar mı?",
+    "input": "",
+    "output": "Evet ancak şeker içerdiği için sınırlı tüketilmelidir. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Açık havada çalışanlar ne kadar su içmeli?",
+    "input": "",
+    "output": "Terleme arttığı için normalden daha fazla su içmelidir. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Hidrasyon konsantrasyonu etkiler mi?",
+    "input": "",
+    "output": "Evet, su eksikliği dikkat dağınıklığına yol açabilir. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Spor sırasında ne kadar su içilmeli?",
+    "input": "",
+    "output": "Her 15-20 dakikada küçük miktarlarda su içilebilir. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Aşırı su tüketimi belirtileri nelerdir?",
+    "input": "",
+    "output": "Baş dönmesi, mide bulantısı ve elektrolit dengesizliği görülebilir. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Soğuk su içmek zararlı mı?",
+    "input": "",
+    "output": "Hayır, genellikle zararlı değildir ancak hassas kişilerde rahatsızlık verebilir. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Sıvı tüketimi yaşlılarda neden önemlidir?",
+    "input": "",
+    "output": "Susama hissi azaldığı için dehidrasyon riski artar. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Hidrasyon nasıl takip edilir?",
+    "input": "",
+    "output": "İdrar rengi ve günlük su tüketimi takip edilerek değerlendirilebilir. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Vitaminler neden önemlidir?",
+    "input": "",
+    "output": "Bağışıklık sistemi, enerji üretimi ve hücre yenilenmesi gibi birçok süreçte rol oynarlar. Dengeli ve çeşitli beslenme ile bu vitaminin yeterli alımı sağlanabilir."
+  },
+  {
+    "instruction": "Mineraller vücutta ne işe yarar?",
+    "input": "",
+    "output": "Kemik sağlığı, sinir iletimi ve sıvı dengesi gibi hayati fonksiyonları destekler."
+  },
+  {
+    "instruction": "A vitamini ne işe yarar?",
+    "input": "",
+    "output": "Görme sağlığını destekler ve bağışıklık sistemini güçlendirir. Dengeli ve çeşitli beslenme ile bu vitaminin yeterli alımı sağlanabilir."
+  },
+  {
+    "instruction": "B grubu vitaminler ne işe yarar?",
+    "input": "",
+    "output": "Enerji üretiminde ve sinir sistemi sağlığında önemli rol oynar. Dengeli ve çeşitli beslenme ile bu vitaminin yeterli alımı sağlanabilir."
+  },
+  {
+    "instruction": "C vitamini neden önemlidir?",
+    "input": "",
+    "output": "Bağışıklık sistemini destekler ve antioksidan etki gösterir. Dengeli ve çeşitli beslenme ile bu vitaminin yeterli alımı sağlanabilir."
+  },
+  {
+    "instruction": "D vitamini ne işe yarar?",
+    "input": "",
+    "output": "Kalsiyum emilimini artırarak kemik sağlığını destekler. Dengeli ve çeşitli beslenme ile bu vitaminin yeterli alımı sağlanabilir."
+  },
+  {
+    "instruction": "E vitamini ne işe yarar?",
+    "input": "",
+    "output": "Hücreleri oksidatif stresten koruyan bir antioksidandır. Dengeli ve çeşitli beslenme ile bu vitaminin yeterli alımı sağlanabilir."
+  },
+  {
+    "instruction": "Demir ne işe yarar?",
+    "input": "",
+    "output": "Kanda oksijen taşınmasını sağlayan hemoglobinin yapısında bulunur."
+  },
+  {
+    "instruction": "Magnezyum ne işe yarar?",
+    "input": "",
+    "output": "Kas ve sinir fonksiyonlarını destekler ve enerji üretiminde rol oynar."
+  },
+  {
+    "instruction": "Potasyum neden önemlidir?",
+    "input": "",
+    "output": "Kas kasılması ve kalp ritminin düzenlenmesine yardımcı olur."
+  },
+  {
+    "instruction": "Çinko ne işe yarar?",
+    "input": "",
+    "output": "Bağışıklık sistemi ve hücre yenilenmesinde görev alır."
+  },
+  {
+    "instruction": "Vitamin eksikliği neye yol açar?",
+    "input": "",
+    "output": "Bağışıklık zayıflığı, yorgunluk ve çeşitli sağlık sorunlarına neden olabilir. Dengeli ve çeşitli beslenme ile bu vitaminin yeterli alımı sağlanabilir."
+  },
+  {
+    "instruction": "Mineral eksikliği neye yol açar?",
+    "input": "",
+    "output": "Kemik zayıflığı, kas krampları ve metabolik sorunlara yol açabilir."
+  },
+  {
+    "instruction": "Vitaminler vücutta depolanır mı?",
+    "input": "",
+    "output": "Yağda çözünen vitaminler depolanabilir, suda çözünenler genellikle depolanmaz. Dengeli ve çeşitli beslenme ile bu vitaminin yeterli alımı sağlanabilir."
+  },
+  {
+    "instruction": "Vitaminler nasıl alınmalıdır?",
+    "input": "",
+    "output": "Dengeli ve çeşitli beslenme ile doğal yollardan alınmalıdır. Dengeli ve çeşitli beslenme ile bu vitaminin yeterli alımı sağlanabilir."
+  },
+  {
+    "instruction": "Mineraller hangi besinlerde bulunur?",
+    "input": "",
+    "output": "Sebzeler, meyveler, et, süt ürünleri ve tahıllarda bulunur."
+  },
+  {
+    "instruction": "C vitamini hangi besinlerde bulunur?",
+    "input": "",
+    "output": "Portakal, mandalina, kivi ve biber gibi besinlerde bulunur. Dengeli ve çeşitli beslenme ile bu vitaminin yeterli alımı sağlanabilir."
+  },
+  {
+    "instruction": "D vitamini nasıl alınır?",
+    "input": "",
+    "output": "Güneş ışığı ve bazı besinler aracılığıyla alınabilir. Dengeli ve çeşitli beslenme ile bu vitaminin yeterli alımı sağlanabilir."
+  },
+  {
+    "instruction": "Kalsiyum hangi besinlerde bulunur?",
+    "input": "",
+    "output": "Süt, yoğurt, peynir ve yeşil yapraklı sebzelerde bulunur."
+  },
+  {
+    "instruction": "Vitamin takviyeleri gerekli midir?",
+    "input": "",
+    "output": "Eksiklik durumunda doktor önerisiyle kullanılmalıdır. Dengeli ve çeşitli beslenme ile bu vitaminin yeterli alımı sağlanabilir."
+  },
+  {
+    "instruction": "Fazla vitamin almak zararlı mı?",
+    "input": "",
+    "output": "Evet, özellikle yağda çözünen vitaminlerin fazlası zararlı olabilir. Dengeli ve çeşitli beslenme ile bu vitaminin yeterli alımı sağlanabilir."
+  },
+  {
+    "instruction": "Mineral fazlalığı zararlı mı?",
+    "input": "",
+    "output": "Evet, aşırı mineral alımı sağlık sorunlarına yol açabilir."
+  },
+  {
+    "instruction": "Vitaminler bağışıklığı nasıl etkiler?",
+    "input": "",
+    "output": "Bağışıklık hücrelerinin düzgün çalışmasını destekler. Dengeli ve çeşitli beslenme ile bu vitaminin yeterli alımı sağlanabilir."
+  },
+  {
+    "instruction": "Vitaminler enerji verir mi?",
+    "input": "",
+    "output": "Doğrudan enerji vermez ancak enerji üretim süreçlerine katkı sağlar. Dengeli ve çeşitli beslenme ile bu vitaminin yeterli alımı sağlanabilir."
+  },
+  {
+    "instruction": "Mineraller kemik sağlığını nasıl etkiler?",
+    "input": "",
+    "output": "Kalsiyum ve fosfor gibi mineraller kemik yapısını güçlendirir."
+  },
+  {
+    "instruction": "Vitamin eksikliği nasıl anlaşılır?",
+    "input": "",
+    "output": "Yorgunluk, saç dökülmesi ve bağışıklık düşüklüğü gibi belirtilerle anlaşılabilir. Dengeli ve çeşitli beslenme ile bu vitaminin yeterli alımı sağlanabilir."
+  },
+  {
+    "instruction": "Mineral eksikliği nasıl anlaşılır?",
+    "input": "",
+    "output": "Kas krampları, halsizlik ve kemik ağrıları görülebilir."
+  },
+  {
+    "instruction": "Vitaminler pişirme sırasında kaybolur mu?",
+    "input": "",
+    "output": "Evet, özellikle suda çözünen vitaminler kaybolabilir. Dengeli ve çeşitli beslenme ile bu vitaminin yeterli alımı sağlanabilir."
+  },
+  {
+    "instruction": "Vitamin eksikliği hangi hastalıklara yol açar?",
+    "input": "",
+    "output": "Anemi, kemik hastalıkları ve bağışıklık sorunlarına yol açabilir. Dengeli ve çeşitli beslenme ile bu vitaminin yeterli alımı sağlanabilir."
+  },
+  {
+    "instruction": "Minerallerin dengesi neden önemlidir?",
+    "input": "",
+    "output": "Vücuttaki birçok sistemin düzgün çalışması için gereklidir."
+  },
+  {
+    "instruction": "Vitaminler kilo kontrolünü etkiler mi?",
+    "input": "",
+    "output": "Dolaylı olarak metabolizmayı destekleyerek etkileyebilir. Dengeli ve çeşitli beslenme ile bu vitaminin yeterli alımı sağlanabilir."
+  },
+  {
+    "instruction": "Ofiste sağlıklı atıştırmalık olarak ne tüketebilirim?",
+    "input": "",
+    "output": "Badem, ceviz, yoğurt veya taze meyveler sağlıklı atıştırmalık seçenekleridir. Sağlıklı beslenme alışkanlıkları uzun vadede kronik hastalık riskini azaltır."
+  },
+  {
+    "instruction": "Kampüste pratik kahvaltı önerisi nedir?",
+    "input": "",
+    "output": "Yoğurt, yulaf ve meyve karışımı hızlı ve besleyici bir kahvaltıdır."
+  },
+  {
+    "instruction": "Ofiste açlık krizlerini nasıl önleyebilirim?",
+    "input": "",
+    "output": "Yanınızda sağlıklı ara öğünler bulundurmak ve düzenli yemek yemek yardımcı olur. Sağlıklı beslenme alışkanlıkları uzun vadede kronik hastalık riskini azaltır."
+  },
+  {
+    "instruction": "Dışarıda sağlıklı yemek nasıl seçilir?",
+    "input": "",
+    "output": "Izgara, haşlama veya fırınlanmış yemekleri tercih etmek daha sağlıklıdır. Sağlıklı beslenme alışkanlıkları uzun vadede kronik hastalık riskini azaltır."
+  },
+  {
+    "instruction": "Hızlı hazırlanabilen sağlıklı kahvaltı nedir?",
+    "input": "",
+    "output": "Tam tahıllı ekmek üzerine avokado ve yumurta eklemek pratik bir seçenektir. Sağlıklı beslenme alışkanlıkları uzun vadede kronik hastalık riskini azaltır."
+  },
+  {
+    "instruction": "Ofiste tatlı isteği geldiğinde ne yapılmalı?",
+    "input": "",
+    "output": "Meyve veya yoğurt gibi sağlıklı alternatifler tercih edilebilir. Sağlıklı beslenme alışkanlıkları uzun vadede kronik hastalık riskini azaltır."
+  },
+  {
+    "instruction": "Kampüste sağlıklı atıştırmalık bulamazsam ne yapmalıyım?",
+    "input": "",
+    "output": "Evden hazırlayıp yanınızda taşımak en iyi çözümdür. Sağlıklı beslenme alışkanlıkları uzun vadede kronik hastalık riskini azaltır."
+  },
+  {
+    "instruction": "Dışarıda yemek yerken porsiyon kontrolü nasıl yapılır?",
+    "input": "",
+    "output": "Yemeğin yarısını tüketmek veya paylaşmak porsiyon kontrolü sağlar."
+  },
+  {
+    "instruction": "Ofiste su içmeyi nasıl alışkanlık haline getirebilirim?",
+    "input": "",
+    "output": "Masanızda sürekli su bulundurmak ve hatırlatıcı kullanmak faydalıdır. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Kampüste hızlı ama sağlıklı öğle yemeği nedir?",
+    "input": "",
+    "output": "Tavuklu salata veya sandviç dengeli bir seçim olabilir. Sağlıklı beslenme alışkanlıkları uzun vadede kronik hastalık riskini azaltır."
+  },
+  {
+    "instruction": "Hızlı kahvaltı için smoothie uygun mu?",
+    "input": "",
+    "output": "Evet, meyve, yoğurt ve yulaf ile hazırlanan smoothie iyi bir seçenektir."
+  },
+  {
+    "instruction": "Dışarıda fast food yerine ne tercih edilebilir?",
+    "input": "",
+    "output": "Izgara tavuk, salata veya ev yemekleri tercih edilebilir."
+  },
+  {
+    "instruction": "Ofiste sağlıklı beslenmek neden zor olur?",
+    "input": "",
+    "output": "Yoğun tempo ve hazır gıdalara kolay erişim sağlıksız seçimlere yol açabilir. Sağlıklı beslenme alışkanlıkları uzun vadede kronik hastalık riskini azaltır."
+  },
+  {
+    "instruction": "Kampüste sağlıklı beslenme nasıl planlanır?",
+    "input": "",
+    "output": "Öğünler önceden planlanmalı ve sağlıklı alternatifler seçilmelidir. Sağlıklı beslenme alışkanlıkları uzun vadede kronik hastalık riskini azaltır."
+  },
+  {
+    "instruction": "Hızlı kahvaltı yapmadan güne başlamak doğru mu?",
+    "input": "",
+    "output": "Genellikle önerilmez; küçük bir öğün bile enerji sağlar."
+  },
+  {
+    "instruction": "Dışarıda sağlıklı içecek seçimi nedir?",
+    "input": "",
+    "output": "Su, ayran veya şekersiz içecekler tercih edilmelidir. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Ofiste abur cubur tüketimi nasıl azaltılır?",
+    "input": "",
+    "output": "Sağlıklı alternatifler bulundurmak ve planlı beslenmek yardımcı olur. Sağlıklı beslenme alışkanlıkları uzun vadede kronik hastalık riskini azaltır."
+  },
+  {
+    "instruction": "Kampüste sağlıklı sandviç nasıl seçilir?",
+    "input": "",
+    "output": "Tam tahıllı ekmek ve bol sebze içeren sandviçler tercih edilmelidir. Sağlıklı beslenme alışkanlıkları uzun vadede kronik hastalık riskini azaltır."
+  },
+  {
+    "instruction": "Ofiste öğün atlamak doğru mu?",
+    "input": "",
+    "output": "Hayır, öğün atlamak enerji düşüşüne neden olabilir."
+  },
+  {
+    "instruction": "Dışarıda yemek yerken sağlıklı sos seçimi nasıl olmalı?",
+    "input": "",
+    "output": "Zeytinyağı ve limon gibi doğal soslar tercih edilmelidir. Sağlıklı yağ kaynakları olarak zeytinyağı, ceviz ve avokado tercih edilebilir."
+  },
+  {
+    "instruction": "Ofiste uzun süre tok kalmak için ne tüketilmeli?",
+    "input": "",
+    "output": "Protein ve lif içeren besinler tercih edilmelidir. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Ofiste sağlıklı kahvaltı için ne getirilebilir?",
+    "input": "",
+    "output": "Haşlanmış yumurta ve tam tahıllı ekmek getirilebilir. Sağlıklı beslenme alışkanlıkları uzun vadede kronik hastalık riskini azaltır."
+  },
+  {
+    "instruction": "Dışarıda yemek seçerken nelere dikkat edilmeli?",
+    "input": "",
+    "output": "Pişirme yöntemi ve besin dengesi göz önünde bulundurulmalıdır."
+  },
+  {
+    "instruction": "Kampüste sağlıklı tatlı alternatifi nedir?",
+    "input": "",
+    "output": "Meyve veya yoğurt bazlı tatlılar tercih edilebilir. Sağlıklı beslenme alışkanlıkları uzun vadede kronik hastalık riskini azaltır."
+  },
+  {
+    "instruction": "Ofiste enerji düşüşü nasıl önlenir?",
+    "input": "",
+    "output": "Düzenli beslenme ve yeterli su tüketimi ile önlenebilir. Yeterli su tüketimi metabolizma ve sindirim sağlığı için temel bir ihtiyaçtır."
+  },
+  {
+    "instruction": "Kampüste öğün atlamak zararlı mı?",
+    "input": "",
+    "output": "Evet, enerji ve konsantrasyon düşüşüne neden olabilir."
+  },
+  {
+    "instruction": "Hızlı kahvaltı için sandviç uygun mu?",
+    "input": "",
+    "output": "Evet, tam tahıllı ve dengeli içeriklerle sağlıklı olabilir. Sağlıklı beslenme alışkanlıkları uzun vadede kronik hastalık riskini azaltır."
+  },
+  {
+    "instruction": "Dışarıda yemek yerken içecek seçimi nasıl olmalı?",
+    "input": "",
+    "output": "Şekersiz ve düşük kalorili içecekler tercih edilmelidir. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Hızlı kahvaltı için meyve yeterli mi?",
+    "input": "",
+    "output": "Tek başına yeterli değildir, protein ile desteklenmelidir. Yeterli protein alımı kas sağlığı ve doygunluk hissi için kritiktir."
+  },
+  {
+    "instruction": "Kampüste sağlıklı yemek seçimi nasıl yapılır?",
+    "input": "",
+    "output": "Izgara ve sebze ağırlıklı seçenekler tercih edilmelidir. Sağlıklı beslenme alışkanlıkları uzun vadede kronik hastalık riskini azaltır."
+  },
+  {
+    "instruction": "Ofiste sağlıklı beslenme için hazırlık ne zaman yapılmalı?",
+    "input": "",
+    "output": "Genellikle bir gün önceden hazırlık yapmak faydalıdır. Sağlıklı beslenme alışkanlıkları uzun vadede kronik hastalık riskini azaltır."
+  },
+  {
+    "instruction": "Dışarıda yemek yerken kalori kontrolü nasıl yapılır?",
+    "input": "",
+    "output": "Porsiyon kontrolü ve sağlıklı seçimlerle sağlanır. Bu bilgi, günlük enerji dengesini korumak için önemlidir."
+  },
+  {
+    "instruction": "Mevsiminde sebze tüketmek neden önemlidir?",
+    "input": "",
+    "output": "Mevsiminde sebzeler daha taze, besin değeri yüksek ve daha lezzetlidir."
+  },
+  {
+    "instruction": "Mevsiminde meyve seçmenin faydaları nelerdir?",
+    "input": "",
+    "output": "Vitamin ve mineral içeriği daha yüksek olur ve genellikle daha ekonomiktir. Dengeli ve çeşitli beslenme ile bu vitaminin yeterli alımı sağlanabilir."
+  },
+  {
+    "instruction": "Yaz mevsiminde hangi sebzeler tercih edilmelidir?",
+    "input": "",
+    "output": "Domates, salatalık, kabak ve biber gibi sebzeler yazın tercih edilmelidir."
+  },
+  {
+    "instruction": "Kış mevsiminde hangi sebzeler tüketilmelidir?",
+    "input": "",
+    "output": "Lahana, brokoli, havuç ve ıspanak gibi sebzeler kışın tüketilmelidir."
+  },
+  {
+    "instruction": "Mevsiminde olmayan sebzeler tüketilir mi?",
+    "input": "",
+    "output": "Tüketilebilir ancak besin değeri ve lezzeti daha düşük olabilir."
+  },
+  {
+    "instruction": "Sebzeler besin değerini kaybetmeden nasıl saklanır?",
+    "input": "",
+    "output": "Serin, karanlık ve uygun nemli ortamda saklanmalıdır."
+  },
+  {
+    "instruction": "Meyveler buzdolabında saklanmalı mı?",
+    "input": "",
+    "output": "Bazı meyveler buzdolabında, bazıları oda sıcaklığında saklanmalıdır."
+  },
+  {
+    "instruction": "Sebzeleri yıkayarak saklamak doğru mu?",
+    "input": "",
+    "output": "Hayır, yıkamadan saklamak ve kullanmadan önce yıkamak daha doğrudur."
+  },
+  {
+    "instruction": "Yeşil yapraklı sebzeler nasıl saklanmalıdır?",
+    "input": "",
+    "output": "Nemli kağıt havlu ile sarılarak buzdolabında saklanmalıdır."
+  },
+  {
+    "instruction": "Meyvelerin çürümesini nasıl önleyebiliriz?",
+    "input": "",
+    "output": "Hasarlı meyveleri ayırarak ve uygun sıcaklıkta saklayarak önlenebilir."
+  },
+  {
+    "instruction": "Sebzeler derin dondurucuda saklanabilir mi?",
+    "input": "",
+    "output": "Evet, uygun şekilde dondurularak besin değeri korunabilir."
+  },
+  {
+    "instruction": "Dondurulmuş sebzelerin besin değeri korunur mu?",
+    "input": "",
+    "output": "Evet, doğru yöntemle dondurulduğunda büyük ölçüde korunur."
+  },
+  {
+    "instruction": "Meyveler dondurularak saklanabilir mi?",
+    "input": "",
+    "output": "Evet, özellikle smoothie gibi kullanımlar için uygundur."
+  },
+  {
+    "instruction": "Sebzeleri uzun süre saklamak için en iyi yöntem nedir?",
+    "input": "",
+    "output": "Buzdolabında uygun bölmelerde veya dondurarak saklamak en iyi yöntemdir."
+  },
+  {
+    "instruction": "Meyveler neden ayrı saklanmalıdır?",
+    "input": "",
+    "output": "Bazı meyveler etilen gazı salgılayarak diğerlerinin çabuk bozulmasına neden olabilir."
+  },
+  {
+    "instruction": "Etilen gazı nedir?",
+    "input": "",
+    "output": "Meyvelerin olgunlaşmasını hızlandıran doğal bir gazdır."
+  },
+  {
+    "instruction": "Sebze ve meyveler neden doğru sıcaklıkta saklanmalıdır?",
+    "input": "",
+    "output": "Yanlış sıcaklık besin değerinin kaybına ve bozulmaya neden olabilir."
+  },
+  {
+    "instruction": "Sebzelerin besin değeri pişirme sırasında azalır mı?",
+    "input": "",
+    "output": "Evet, özellikle suda çözünen vitaminler kaybolabilir. Dengeli ve çeşitli beslenme ile bu vitaminin yeterli alımı sağlanabilir."
+  },
+  {
+    "instruction": "Mevsiminde sebze ve meyve nasıl seçilir?",
+    "input": "",
+    "output": "Yerel pazarlardan ve sezonuna uygun ürünler tercih edilmelidir."
+  },
+  {
+    "instruction": "Organik ürünler nasıl saklanmalıdır?",
+    "input": "",
+    "output": "Daha hassas oldukları için uygun koşullarda kısa sürede tüketilmelidir."
+  },
+  {
+    "instruction": "Meyveler plastik poşette saklanmalı mı?",
+    "input": "",
+    "output": "Uzun süreli saklama için hava alabilen kaplar tercih edilmelidir."
+  },
+  {
+    "instruction": "Dondurulmuş gıdalar tekrar dondurulabilir mi?",
+    "input": "",
+    "output": "Hayır, çözündükten sonra tekrar dondurulması önerilmez."
+  },
+  {
+    "instruction": "Sebzelerin raf ömrü nasıl uzatılır?",
+    "input": "",
+    "output": "Doğru sıcaklık ve nem koşullarında saklanarak uzatılabilir."
+  },
+  {
+    "instruction": "Kışın yaz meyveleri tüketmek sağlıklı mı?",
+    "input": "",
+    "output": "Besin değeri düşük olabilir, mevsiminde tüketmek daha iyidir. Sağlıklı beslenme alışkanlıkları uzun vadede kronik hastalık riskini azaltır."
+  },
+  {
+    "instruction": "Sebzeleri saklarken ışık önemli mi?",
+    "input": "",
+    "output": "Evet, bazı sebzeler ışığa maruz kalınca bozulabilir."
+  },
+  {
+    "instruction": "Mevsiminde tüketim sağlığı nasıl etkiler?",
+    "input": "",
+    "output": "Daha yüksek besin değeri ve daha iyi sağlık sağlar."
+  },
+  {
+    "instruction": "Mevsiminde sebze ve meyve tüketmek bağışıklığı nasıl etkiler?",
+    "input": "",
+    "output": "Mevsiminde tüketilen sebze ve meyveler daha fazla vitamin içerdiği için bağışıklık sistemini güçlendirir."
+  },
+  {
+    "instruction": "Sebzeleri saklarken kesmeden mi yoksa keserek mi saklamak daha iyidir?",
+    "input": "",
+    "output": "Genellikle bütün halde saklamak besin değerinin daha uzun süre korunmasını sağlar."
+  },
+  {
+    "instruction": "Muz buzdolabında saklanmalı mı?",
+    "input": "",
+    "output": "Hayır, muz oda sıcaklığında saklanmalıdır; buzdolabı kabuğunu karartabilir."
+  },
+  {
+    "instruction": "Sebzeleri dondurmadan önce ne yapmak gerekir?",
+    "input": "",
+    "output": "Çoğu sebze kısa süreli haşlanarak (blanching) dondurulursa besin değeri daha iyi korunur."
+  },
+  {
+    "instruction": "Meyve ve sebzeleri uzun süre saklamak için vakumlama işe yarar mı?",
+    "input": "",
+    "output": "Evet, vakumlama hava ile teması azaltarak bozulmayı geciktirir ve besin değerinin korunmasına yardımcı olur."
+  },
+
+
+
+
+
+{"instruction":"70 kg spor yapan bir kadının günlük kalori ihtiyacı nedir?","input":"","output":"Haftada 3-4 gün spor yapan 70 kg bir kadının günlük ihtiyacı ortalama 2000-2200 kaloridir. Egzersiz yoğunluğu artarsa bu değer 2400 kaloriye kadar çıkabilir. Protein alımı da günde yaklaşık 90-100 gram olmalıdır."},
+{"instruction":"1 adet orta boy elma kaç kaloridir ve besin değeri nedir?","input":"","output":"Orta boy bir elma yaklaşık 95 kaloridir ve 25 gram karbonhidrat içerir. Ayrıca 4 gram lif bulunur ve yağ oranı neredeyse sıfırdır. Günlük C vitamini ihtiyacının yaklaşık %10’unu karşılar."},
+{"instruction":"Ketojenik diyet yapan biri günlük ne kadar karbonhidrat almalıdır?","input":"","output":"Ketojenik diyette günlük karbonhidrat alımı genellikle 20-50 gram arasında tutulur. Bu miktar vücudu ketozise sokmak için gereklidir. Kalorinin büyük kısmı yağdan, yaklaşık %70-75 oranında alınır."},
+{"instruction":"Kahvaltıda sağlıklı bir öğün nasıl olmalı?","input":"","output":"Kahvaltıda 2 adet yumurta, 1 dilim tam buğday ekmeği ve 30 gram peynir dengeli bir seçimdir. Bu öğün yaklaşık 350-400 kalori içerir. Yanına 1 porsiyon sebze eklemek lif alımını artırır."},
+{"instruction":"Spor sonrası ne yenmeli?","input":"","output":"Spor sonrası 20-30 gram protein içeren bir öğün tercih edilmelidir. Örneğin 150 gram tavuk ve 1 porsiyon pirinç yaklaşık 500 kalori sağlar. Bu kombinasyon kas onarımını destekler."},
+{"instruction":"Hamile bir kadının günlük kalori ihtiyacı ne kadar artar?","input":"","output":"Hamilelikte günlük kalori ihtiyacı ortalama 300-400 kalori artar. Örneğin normalde 2000 kalori alan biri 2300-2400 kalori almalıdır. Protein ihtiyacı da günde yaklaşık 70-80 grama çıkar."},
+{"instruction":"1 adet haşlanmış yumurtanın besin değeri nedir?","input":"","output":"1 adet haşlanmış yumurta yaklaşık 70 kaloridir ve 6 gram protein içerir. Ayrıca 5 gram sağlıklı yağ bulunur. Vitamin B12 ve D vitamini açısından da zengindir."},
+{"instruction":"Akdeniz diyeti nasıl uygulanır?","input":"","output":"Akdeniz diyetinde günlük kalorinin %40-50’si karbonhidratlardan gelir. Zeytinyağı, sebze ve balık tüketimi ön plandadır. Günlük 2-3 porsiyon sebze ve 1-2 porsiyon meyve önerilir."},
+{"instruction":"Günlük protein ihtiyacı nasıl hesaplanır?","input":"","output":"Protein ihtiyacı genelde kilo başına 0.8-1.2 gram olarak hesaplanır. Örneğin 60 kg biri için bu 50-70 gram arasıdır. Spor yapanlarda bu değer 1.5 grama kadar çıkabilir."},
+{"instruction":"Zeytinyağı kaç kaloridir?","input":"","output":"1 yemek kaşığı zeytinyağı yaklaşık 120 kaloridir. Tamamı yağdan oluşur ve yaklaşık 14 gram yağ içerir. Kalp sağlığı için faydalı doymamış yağlar barındırır."},
+
+{"instruction":"Vegan diyet yapan biri protein ihtiyacını nasıl karşılar?","input":"","output":"Vegan bireyler protein ihtiyacını baklagiller ve kuruyemişlerle karşılayabilir. Örneğin 1 su bardağı mercimek yaklaşık 18 gram protein içerir. Günlük toplam 60-80 gram protein hedeflenmelidir."},
+{"instruction":"Yaşlı bir bireyin günlük kalori ihtiyacı nedir?","input":"","output":"65 yaş üstü bireylerde kalori ihtiyacı genelde 1600-2000 kaloridir. Aktivite azaldıkça bu değer düşer. Protein alımı ise kas kaybını önlemek için günlük 60-70 gram olmalıdır."},
+{"instruction":"1 dilim tam buğday ekmeği kaç kaloridir?","input":"","output":"1 dilim tam buğday ekmeği yaklaşık 70-80 kaloridir. 15 gram karbonhidrat ve 3 gram lif içerir. Beyaz ekmeğe göre daha uzun süre tok tutar."},
+{"instruction":"Kas yapmak isteyen biri günlük kaç kalori almalı?","input":"","output":"Kas yapmak için günlük ihtiyacın üzerine 300-500 kalori eklenmelidir. Örneğin 2200 kalori ihtiyacı olan biri 2500 kalori alabilir. Protein alımı da kilo başına 1.6-2 gram olmalıdır."},
+{"instruction":"Ara öğünde ne yenmeli?","input":"","output":"Ara öğünde 1 avuç badem ve 1 adet meyve iyi bir seçenektir. Bu kombinasyon yaklaşık 200-250 kalori içerir. Hem sağlıklı yağ hem lif sağlar."},
+{"instruction":"1 kase yoğurt kaç kaloridir?","input":"","output":"1 kase yoğurt yaklaşık 120 kaloridir ve 8 gram protein içerir. Ayrıca kalsiyum açısından zengindir. Sindirimi destekleyen probiyotikler içerir."},
+
+{"instruction":"Kilo vermek için günlük kaç kalori açığı gerekir?","input":"","output":"Kilo vermek için günlük 300-500 kalori açık oluşturulmalıdır. Bu sayede haftada yaklaşık 0.5 kg kayıp sağlanabilir. Daha büyük açıklar kas kaybına neden olabilir."},
+{"instruction":"1 muz kaç kaloridir?","input":"","output":"Orta boy bir muz yaklaşık 105 kaloridir. 27 gram karbonhidrat içerir. Spor öncesi hızlı enerji sağlar."},
+{"instruction":"Akşam yemeği kaç kalori olmalı?","input":"","output":"Akşam yemeği genelde günlük kalorinin %25-30’u kadar olmalıdır. Bu da ortalama 500-700 kaloriye denk gelir. Protein ve sebze ağırlıklı olması önerilir."},
+{"instruction":"Su tüketimi ne kadar olmalı?","input":"","output":"Günlük su tüketimi kilo başına 30-35 ml olmalıdır. 60 kg biri için bu yaklaşık 2 litre eder. Spor yapanlarda bu miktar 2.5 litreye çıkabilir."},
+{"instruction":"Karbonhidrat tüketimi ne kadar olmalı?","input":"","output":"Karbonhidratlar günlük kalorinin %45-60’ını oluşturmalıdır. 2000 kalorilik diyette bu yaklaşık 225-300 gramdır. Kompleks karbonhidratlar tercih edilmelidir."},
+
+{"instruction":"Spor öncesi ne yenmeli?","input":"","output":"Spor öncesi 30-60 gram karbonhidrat alınmalıdır. Örneğin 1 muz ve 1 dilim ekmek yaklaşık 200 kalori sağlar. Bu enerji performansı artırır."},
+{"instruction":"1 porsiyon tavuk göğsü kaç kaloridir?","input":"","output":"100 gram tavuk göğsü yaklaşık 165 kaloridir. 31 gram protein içerir. Yağ oranı oldukça düşüktür."},
+{"instruction":"Günde kaç öğün yenmeli?","input":"","output":"Günde 3 ana ve 2 ara öğün önerilir. Toplamda 5 öğün kan şekerini dengeler. Öğünler arası 2-3 saat olmalıdır."},
+{"instruction":"Yağ tüketimi ne kadar olmalı?","input":"","output":"Yağlar günlük kalorinin %25-30’unu oluşturmalıdır. 2000 kalorilik diyette bu yaklaşık 55-65 gramdır. Sağlıklı yağlar tercih edilmelidir."},
+{"instruction":"1 avuç badem kaç kaloridir?","input":"","output":"1 avuç badem yaklaşık 150-170 kaloridir. 6 gram protein ve 14 gram yağ içerir. Tokluk hissini artırır."},
+
+[
+{"instruction":"80 kg aktif spor yapan bir erkeğin günlük kalori ihtiyacı nedir?","input":"","output":"Haftada 4-5 gün spor yapan 80 kg bir erkeğin günlük ihtiyacı yaklaşık 2600-3000 kaloridir. Yoğun antrenman günlerinde bu değer 3200 kaloriye çıkabilir. Günlük protein ihtiyacı da 120-140 gram civarında olmalıdır."},
+{"instruction":"1 yemek kaşığı bal kaç kaloridir?","input":"","output":"1 yemek kaşığı bal yaklaşık 60 kaloridir ve 17 gram karbonhidrat içerir. Şeker oranı yüksek olduğu için ölçülü tüketilmelidir. Hızlı enerji sağlar."},
+{"instruction":"Keto diyetinde protein oranı ne olmalıdır?","input":"","output":"Ketojenik diyette protein oranı genelde %20 civarında tutulur. Günlük 2000 kalorilik bir diyette bu yaklaşık 100 gram proteine denk gelir. Fazla protein ketozisi bozabilir."},
+{"instruction":"Öğle yemeği için dengeli bir örnek nedir?","input":"","output":"150 gram ızgara tavuk, 4 yemek kaşığı bulgur ve salata dengeli bir öğündür. Bu öğün yaklaşık 500-600 kalori içerir. Protein ve lif açısından zengindir."},
+{"instruction":"Kas kaybını önlemek için ne yapılmalı?","input":"","output":"Günlük protein alımı kilo başına en az 1.2 gram olmalıdır. Örneğin 70 kg biri için 85 gram protein gerekir. Ayrıca haftada en az 2-3 gün direnç antrenmanı yapılmalıdır."},
+
+{"instruction":"1 adet portakalın besin değeri nedir?","input":"","output":"Orta boy bir portakal yaklaşık 80 kaloridir ve 20 gram karbonhidrat içerir. 70 mg civarında C vitamini sağlar. Lif içeriği yaklaşık 3 gramdır."},
+{"instruction":"Vegan diyette B12 nasıl alınır?","input":"","output":"Vegan bireyler B12’yi genelde takviye olarak almalıdır. Günlük 2-4 mcg önerilir. Bitkisel kaynaklarda yeterli miktarda bulunmaz."},
+{"instruction":"Günlük lif ihtiyacı ne kadardır?","input":"","output":"Günlük lif ihtiyacı ortalama 25-30 gramdır. Sebze, meyve ve tam tahıllardan karşılanabilir. Yetersiz lif sindirim sorunlarına yol açabilir."},
+{"instruction":"1 kase mercimek çorbası kaç kaloridir?","input":"","output":"1 kase mercimek çorbası yaklaşık 150 kaloridir. 8-10 gram protein içerir. Aynı zamanda iyi bir lif kaynağıdır."},
+{"instruction":"Diyet yaparken tatlı yenir mi?","input":"","output":"Diyet yaparken haftada 1-2 kez küçük porsiyon tatlı tüketilebilir. Örneğin 1 dilim sütlü tatlı yaklaşık 200 kaloridir. Aşırıya kaçmamak önemlidir."},
+
+{"instruction":"Spor yapan biri suyu ne kadar artırmalı?","input":"","output":"Spor yapan bireyler günlük su tüketimini en az 500 ml artırmalıdır. Örneğin 2 litre içen biri 2.5 litreye çıkmalıdır. Terleme miktarına göre bu değer artabilir."},
+{"instruction":"1 dilim beyaz ekmek kaç kaloridir?","input":"","output":"1 dilim beyaz ekmek yaklaşık 70 kaloridir. 14 gram karbonhidrat içerir. Lif oranı düşüktür."},
+{"instruction":"Kahvaltıyı atlamak zararlı mı?","input":"","output":"Kahvaltıyı atlamak bazı kişilerde enerji düşüklüğüne neden olabilir. Günlük 300-400 kalorilik bir kahvaltı önerilir. Protein içeriği yüksek olmalıdır."},
+{"instruction":"1 porsiyon makarna kaç kaloridir?","input":"","output":"1 porsiyon sade makarna yaklaşık 220-250 kaloridir. 45 gram karbonhidrat içerir. Sos eklenirse kalori artar."},
+{"instruction":"Yağ yakmak için nasıl beslenmeli?","input":"","output":"Günlük 300-500 kalori açık oluşturulmalıdır. Protein alımı kilo başına 1.5 gram olmalıdır. İşlenmiş gıdalardan kaçınılmalıdır."},
+
+{"instruction":"1 adet avokado kaç kaloridir?","input":"","output":"Orta boy bir avokado yaklaşık 240 kaloridir. 22 gram sağlıklı yağ içerir. Lif miktarı da yaklaşık 10 gramdır."},
+{"instruction":"Akdeniz diyetinde et tüketimi ne kadar olmalı?","input":"","output":"Akdeniz diyetinde kırmızı et haftada 1-2 kez tüketilmelidir. Porsiyon başına 100-150 gram önerilir. Balık tüketimi daha ön plandadır."},
+{"instruction":"Spor öncesi protein gerekli mi?","input":"","output":"Spor öncesi 10-20 gram protein almak faydalı olabilir. Örneğin 1 kase yoğurt iyi bir seçenektir. Kas yıkımını azaltır."},
+{"instruction":"1 bardak süt kaç kaloridir?","input":"","output":"1 bardak süt yaklaşık 120 kaloridir. 8 gram protein içerir. Kalsiyum açısından zengindir."},
+{"instruction":"Günde kaç gram şeker alınmalı?","input":"","output":"Günlük serbest şeker alımı 25-50 gramı geçmemelidir. Bu yaklaşık 6-12 çay kaşığına denk gelir. Fazlası kilo artışına neden olabilir."},
+
+{"instruction":"Kas yapmak için karbonhidrat gerekli mi?","input":"","output":"Kas yapmak için karbonhidrat gereklidir çünkü enerji sağlar. Günlük 3-5 gram/kg önerilir. Örneğin 70 kg biri 210-350 gram alabilir."},
+{"instruction":"1 adet salatalık kaç kaloridir?","input":"","output":"1 adet salatalık yaklaşık 15 kaloridir. Su oranı %95’tir. Diyetlerde sıkça tercih edilir."},
+{"instruction":"Akşam geç yemek yemek zararlı mı?","input":"","output":"Geç yemek yemek toplam kalori fazla ise kilo alımına neden olabilir. Saatten çok toplam kalori önemlidir. Akşam öğünü 400-600 kalori olmalıdır."},
+{"instruction":"Protein tozu gerekli mi?","input":"","output":"Protein tozu sadece yeterli protein alınamıyorsa gereklidir. Günlük hedef 1.5 gram/kg karşılanıyorsa gerek yoktur. Aksi halde 1 ölçek yaklaşık 20-25 gram protein sağlar."},
+{"instruction":"1 porsiyon pilav kaç kaloridir?","input":"","output":"1 porsiyon pilav yaklaşık 250-300 kaloridir. 50 gram karbonhidrat içerir. Yağ eklenirse kalori artar."},
+
+{"instruction":"Ara öğün şart mı?","input":"","output":"Ara öğün zorunlu değildir ama kan şekerini dengeleyebilir. 150-250 kalorilik küçük öğünler tercih edilir. Örneğin yoğurt ve meyve iyi bir seçenektir."},
+{"instruction":"1 adet domates kaç kaloridir?","input":"","output":"1 orta boy domates yaklaşık 20 kaloridir. C vitamini içerir. Lif oranı düşüktür."},
+{"instruction":"Vegan diyette demir nasıl alınır?","input":"","output":"Demir baklagiller ve yeşil sebzelerden alınabilir. 1 porsiyon mercimek yaklaşık 6 mg demir içerir. C vitamini ile tüketilmesi emilimi artırır."},
+{"instruction":"Spor sonrası karbonhidrat gerekli mi?","input":"","output":"Spor sonrası 30-50 gram karbonhidrat önerilir. Bu glikojen depolarını yeniler. Örneğin 1 muz ve 1 dilim ekmek yeterlidir."},
+{"instruction":"1 adet yumurta sarısı kaç kaloridir?","input":"","output":"Yumurta sarısı yaklaşık 55 kaloridir. 5 gram yağ içerir. Vitamin açısından zengindir."},
+
+{"instruction":"Kilo almak için ne yapılmalı?","input":"","output":"Günlük 300-500 kalori fazlası oluşturulmalıdır. Protein alımı kilo başına 1.5 gram olmalıdır. Düzenli ağırlık antrenmanı yapılmalıdır."},
+{"instruction":"1 porsiyon et kaç gramdır?","input":"","output":"1 porsiyon et genelde 100-150 gramdır. Bu miktar yaklaşık 200-300 kalori içerir. Protein miktarı 20-30 gramdır."},
+{"instruction":"Diyette ekmek yenir mi?","input":"","output":"Diyette ekmek yenebilir ama miktar önemli. Günde 2-4 dilim tam buğday ekmeği tüketilebilir. Bu yaklaşık 150-300 kalori eder."},
+{"instruction":"1 kase salata kaç kaloridir?","input":"","output":"Yağsız bir salata yaklaşık 50 kaloridir. Zeytinyağı eklenirse 1 kaşıkla 120 kalori artar. Lif açısından zengindir."},
+{"instruction":"Spor yapmadan kilo verilir mi?","input":"","output":"Spor yapmadan da kalori açığıyla kilo verilebilir. Ancak kas kaybı riski artar. Günlük protein alımı en az 1.2 gram/kg olmalıdır."},
+
+
+
+
+[
+{"instruction":"75 kg bir kadının kilo vermek için günlük kalori ihtiyacı nedir?","input":"","output":"75 kg bir kadının kilo vermesi için günlük yaklaşık 1600-1800 kalori alması uygundur. Bu değer normal ihtiyacından 400-500 kalori düşüktür. Protein alımı ise günde yaklaşık 80-90 gram olmalıdır."},
+{"instruction":"1 adet armut kaç kaloridir?","input":"","output":"Orta boy bir armut yaklaşık 100 kaloridir ve 27 gram karbonhidrat içerir. Lif miktarı yaklaşık 5 gramdır. Sindirimi destekler ve tok tutar."},
+{"instruction":"Akdeniz diyetinde zeytinyağı ne kadar tüketilmeli?","input":"","output":"Akdeniz diyetinde günlük 2-3 yemek kaşığı zeytinyağı tüketilebilir. Bu miktar yaklaşık 240-360 kalori sağlar. Sağlıklı yağ kaynağıdır."},
+{"instruction":"Sabah sporu öncesi ne yenmeli?","input":"","output":"Sabah sporundan önce 1 muz ve 10 adet badem iyi bir seçenektir. Bu yaklaşık 200 kalori sağlar. Hızlı enerji verir ve performansı artırır."},
+{"instruction":"1 dilim kaşar peyniri kaç kaloridir?","input":"","output":"1 dilim kaşar peyniri yaklaşık 80-90 kaloridir. 5 gram protein ve 7 gram yağ içerir. Kalsiyum açısından zengindir."},
+
+{"instruction":"Günlük yağ tüketimi nasıl dengelenir?","input":"","output":"Günlük yağ tüketimi toplam kalorinin %25-30’u kadar olmalıdır. 2000 kalorilik bir diyette bu yaklaşık 55-65 gramdır. Doymamış yağlar tercih edilmelidir."},
+{"instruction":"1 porsiyon köfte kaç kaloridir?","input":"","output":"100 gram köfte yaklaşık 250-300 kaloridir. 15-20 gram protein içerir. Yağ oranı kullanılan ete göre değişir."},
+{"instruction":"Kilo verirken protein neden önemli?","input":"","output":"Protein kas kaybını önler ve tokluk sağlar. Günlük 1.2-1.5 gram/kg protein önerilir. Örneğin 70 kg biri 85-105 gram protein almalıdır."},
+{"instruction":"1 adet kivi kaç kaloridir?","input":"","output":"1 adet kivi yaklaşık 45 kaloridir. C vitamini açısından zengindir. Lif miktarı yaklaşık 2 gramdır."},
+{"instruction":"Vegan diyette omega-3 nasıl alınır?","input":"","output":"Omega-3 için keten tohumu ve ceviz tüketilebilir. 1 yemek kaşığı keten tohumu yaklaşık 2 gram omega-3 sağlar. Günlük 1-2 kaşık yeterlidir."},
+
+{"instruction":"Akşam yemeğinde karbonhidrat tüketilmeli mi?","input":"","output":"Akşam yemeğinde karbonhidrat tüketilebilir ama miktar sınırlı olmalıdır. 1-2 dilim ekmek veya 3-4 kaşık pilav yeterlidir. Toplam kalori dengesi önemlidir."},
+{"instruction":"1 porsiyon ton balığı kaç kaloridir?","input":"","output":"100 gram ton balığı yaklaşık 130 kaloridir. 25 gram protein içerir. Yağ oranı düşüktür."},
+{"instruction":"Günde kaç gram tuz tüketilmeli?","input":"","output":"Günlük tuz tüketimi 5 gramı geçmemelidir. Bu yaklaşık 1 çay kaşığına denk gelir. Fazlası tansiyon riskini artırır."},
+{"instruction":"Spor yapan biri kaç öğün yemeli?","input":"","output":"Spor yapan biri günde 4-6 öğün tüketebilir. Öğünler 2-3 saat aralıklarla olmalıdır. Bu kas gelişimini destekler."},
+{"instruction":"1 bardak ayran kaç kaloridir?","input":"","output":"1 bardak ayran yaklaşık 70 kaloridir. 3-4 gram protein içerir. Elektrolit dengesi için faydalıdır."},
+
+{"instruction":"Keto diyette yağ oranı neden yüksek?","input":"","output":"Keto diyette enerji kaynağı yağdır ve oranı %70 civarındadır. Günlük 150-170 gram yağ tüketilebilir. Bu sayede ketozis sağlanır."},
+{"instruction":"1 adet şeftali kaç kaloridir?","input":"","output":"1 orta boy şeftali yaklaşık 60 kaloridir. 15 gram karbonhidrat içerir. Su oranı yüksektir."},
+{"instruction":"Spor sonrası kaç gram protein alınmalı?","input":"","output":"Spor sonrası 20-30 gram protein alınması önerilir. Bu kas onarımını destekler. Örneğin 150 gram tavuk yeterlidir."},
+{"instruction":"1 porsiyon yoğurtlu makarna kaç kaloridir?","input":"","output":"1 porsiyon yoğurtlu makarna yaklaşık 350-400 kaloridir. Karbonhidrat ve protein içerir. Yağ eklenirse kalori artar."},
+{"instruction":"Günlük kalori ihtiyacı nasıl hesaplanır?","input":"","output":"Kalori ihtiyacı yaş, kilo ve aktiviteye göre hesaplanır. Ortalama 30 kcal/kg kullanılabilir. Örneğin 70 kg biri için 2100 kalori eder."},
+
+{"instruction":"1 adet havuç kaç kaloridir?","input":"","output":"1 adet havuç yaklaşık 25 kaloridir. Beta karoten açısından zengindir. Lif miktarı yaklaşık 2 gramdır."},
+{"instruction":"Diyet yaparken meyve yenir mi?","input":"","output":"Meyve diyette tüketilebilir ama porsiyon önemli. Günde 2-3 porsiyon önerilir. 1 porsiyon yaklaşık 60-100 kaloridir."},
+{"instruction":"1 porsiyon tavuk döner kaç kaloridir?","input":"","output":"1 porsiyon tavuk döner yaklaşık 400-500 kaloridir. Protein içerir ama yağ oranı da yüksektir. Ekmekle tüketilirse kalori artar."},
+{"instruction":"Spor yapmadan kas yapılır mı?","input":"","output":"Spor yapmadan kas yapmak çok zordur. Protein almak tek başına yeterli değildir. Haftada en az 2-3 gün antrenman gereklidir."},
+{"instruction":"1 adet incir kaç kaloridir?","input":"","output":"1 adet taze incir yaklaşık 35 kaloridir. Doğal şeker içerir. Lif miktarı yaklaşık 1 gramdır."},
+
+{"instruction":"Günlük karbonhidrat ihtiyacı sporcularda ne kadardır?","input":"","output":"Sporcularda karbonhidrat ihtiyacı kilo başına 4-6 gramdır. 70 kg biri için 280-420 gram eder. Enerji için önemlidir."},
+{"instruction":"1 porsiyon sebze yemeği kaç kaloridir?","input":"","output":"1 porsiyon sebze yemeği yaklaşık 150-250 kaloridir. Yağ miktarına göre değişir. Lif açısından zengindir."},
+{"instruction":"Diyet yaparken yağ tamamen kesilmeli mi?","input":"","output":"Yağ tamamen kesilmemelidir çünkü hormonlar için gereklidir. Günlük 40-60 gram sağlıklı yağ alınmalıdır. Zeytinyağı tercih edilebilir."},
+{"instruction":"1 adet erik kaç kaloridir?","input":"","output":"1 adet erik yaklaşık 10 kaloridir. Su oranı yüksektir. Düşük kalorili bir meyvedir."},
+{"instruction":"Kas gelişimi için en iyi öğün ne zaman?","input":"","output":"Kas gelişimi için spor sonrası öğün önemlidir. İlk 1 saat içinde 20-30 gram protein alınmalıdır. Karbonhidrat da eklenmelidir."},
+
+{"instruction":"1 porsiyon pizza kaç kaloridir?","input":"","output":"1 dilim pizza yaklaşık 250-300 kaloridir. 2 dilim tüketildiğinde 500-600 kalori olur. Yağ ve karbonhidrat oranı yüksektir."},
+{"instruction":"Günde kaç gram protein fazla sayılır?","input":"","output":"Protein alımı genelde 2.2 gram/kg üzerine çıkmamalıdır. 70 kg biri için bu yaklaşık 150 gramdır. Fazlası böbrek yükünü artırabilir."},
+{"instruction":"1 kase çorba kaç kaloridir?","input":"","output":"1 kase çorba genelde 100-200 kaloridir. İçeriğe göre değişir. Sebze çorbaları daha düşük kalorilidir."},
+{"instruction":"Spor öncesi kahve içilir mi?","input":"","output":"Spor öncesi 1 fincan kahve performansı artırabilir. Kafein yaklaşık 80 mg içerir. Yağ yakımını destekleyebilir."},
+{"instruction":"1 adet üzüm kaç kaloridir?","input":"","output":"1 adet üzüm yaklaşık 3 kaloridir. 100 gram üzüm ise yaklaşık 70 kaloridir. Şeker oranı yüksektir."},
+
+
+
+
+[
+{"instruction":"65 kg bir kadının günlük su ihtiyacı ne kadardır?","input":"","output":"65 kg bir kadının günlük su ihtiyacı yaklaşık 2-2.3 litredir. Bu hesap kilo başına 30-35 ml üzerinden yapılır. Spor yaparsa bu miktar 2.5 litreye çıkabilir."},
+{"instruction":"1 adet patates kaç kaloridir?","input":"","output":"Orta boy bir patates yaklaşık 160 kaloridir. 37 gram karbonhidrat içerir. Yağ eklenirse kalori artar."},
+{"instruction":"Kilo almak isteyen biri günde kaç kalori fazla almalı?","input":"","output":"Kilo almak için günlük 300-500 kalori fazlası alınmalıdır. Bu sayede haftada yaklaşık 0.3-0.5 kg artış sağlanabilir. Protein alımı da artırılmalıdır."},
+{"instruction":"1 porsiyon balık kaç kaloridir?","input":"","output":"100 gram ızgara balık yaklaşık 180-220 kaloridir. 20-25 gram protein içerir. Omega-3 açısından zengindir."},
+{"instruction":"Diyet yaparken kaç gram karbonhidrat alınmalı?","input":"","output":"Diyette karbonhidrat genelde kilo başına 2-3 gram olmalıdır. 70 kg biri için bu 140-210 gramdır. Kompleks karbonhidratlar tercih edilmelidir."},
+
+{"instruction":"1 adet ceviz kaç kaloridir?","input":"","output":"1 adet ceviz yaklaşık 25-30 kaloridir. 3 gram yağ içerir. Omega-3 açısından faydalıdır."},
+{"instruction":"Spor yapan biri ne kadar protein almalı?","input":"","output":"Spor yapan bireyler kilo başına 1.5-2 gram protein almalıdır. 70 kg biri için bu 105-140 gramdır. Kas gelişimi için önemlidir."},
+{"instruction":"1 porsiyon karnabahar yemeği kaç kaloridir?","input":"","output":"1 porsiyon karnabahar yemeği yaklaşık 150 kaloridir. Lif açısından zengindir. Düşük kalorili bir seçenektir."},
+{"instruction":"Günde kaç kalori fazla almak zararlıdır?","input":"","output":"Günlük 500 kaloriden fazla fazlalık uzun vadede yağlanmaya neden olur. Haftada 0.5 kg’dan fazla artış sağlıksız olabilir. Dengeli artış önerilir."},
+{"instruction":"1 adet mandalina kaç kaloridir?","input":"","output":"1 adet mandalina yaklaşık 40 kaloridir. C vitamini içerir. Hafif ve düşük kalorili bir meyvedir."},
+
+{"instruction":"Akşam yemeğinde protein ne kadar olmalı?","input":"","output":"Akşam yemeğinde 20-30 gram protein alınması uygundur. Bu yaklaşık 100-150 gram et veya tavuk demektir. Kas onarımını destekler."},
+{"instruction":"1 porsiyon makarna salatası kaç kaloridir?","input":"","output":"1 porsiyon makarna salatası yaklaşık 300-400 kaloridir. Mayonez eklenirse bu değer 500 kaloriye çıkabilir. Karbonhidrat oranı yüksektir."},
+{"instruction":"Spor sonrası yağ tüketilmeli mi?","input":"","output":"Spor sonrası yağ tüketimi düşük tutulmalıdır. 5-10 gram yeterlidir. Öncelik protein ve karbonhidratta olmalıdır."},
+{"instruction":"1 dilim karpuz kaç kaloridir?","input":"","output":"1 dilim karpuz yaklaşık 45 kaloridir. Su oranı çok yüksektir. Yaz aylarında serinletici bir seçenektir."},
+{"instruction":"Diyet yaparken kahve içilir mi?","input":"","output":"Şekersiz kahve diyette tüketilebilir. 1 fincan yaklaşık 5 kaloridir. Şeker ve krema eklenirse kalori artar."},
+
+{"instruction":"1 adet kuru kayısı kaç kaloridir?","input":"","output":"1 adet kuru kayısı yaklaşık 20 kaloridir. Lif içerir. Fazla tüketildiğinde şeker alımı artar."},
+{"instruction":"Kas yapmak için yağ gerekli mi?","input":"","output":"Yağlar hormon üretimi için gereklidir. Günlük 50-70 gram yağ alınmalıdır. Sağlıklı yağlar tercih edilmelidir."},
+{"instruction":"1 porsiyon omlet kaç kaloridir?","input":"","output":"2 yumurtalı bir omlet yaklaşık 180-220 kaloridir. 12 gram protein içerir. Yağ eklenirse kalori artar."},
+{"instruction":"Günlük kalori ihtiyacı yaşla değişir mi?","input":"","output":"Evet, yaş arttıkça metabolizma yavaşlar. 20’li yaşlara göre 60 yaşında biri 200-300 kalori daha az ihtiyaç duyar. Aktivite de etkiler."},
+{"instruction":"1 porsiyon etli sebze yemeği kaç kaloridir?","input":"","output":"1 porsiyon etli sebze yemeği yaklaşık 250-350 kaloridir. Protein ve lif içerir. Dengeli bir öğündür."},
+
+{"instruction":"Spor yapmadan protein almak işe yarar mı?","input":"","output":"Spor yapmadan protein almak kas gelişimi sağlamaz. Sadece fazla kalori olarak depolanabilir. Günlük 1 gram/kg yeterlidir."},
+{"instruction":"1 porsiyon patates kızartması kaç kaloridir?","input":"","output":"1 porsiyon patates kızartması yaklaşık 300-400 kaloridir. Yağ oranı yüksektir. Diyette sınırlı tüketilmelidir."},
+{"instruction":"Günde kaç gram lif fazla sayılır?","input":"","output":"Günlük 40 gramdan fazla lif bazı kişilerde şişkinlik yapabilir. İdeal aralık 25-30 gramdır. Yavaş artırılmalıdır."},
+{"instruction":"1 adet nar kaç kaloridir?","input":"","output":"1 adet nar yaklaşık 230 kaloridir. Antioksidan açısından zengindir. 50 gram karbonhidrat içerir."},
+{"instruction":"Spor sonrası süt içilir mi?","input":"","output":"Spor sonrası 1 bardak süt iyi bir seçenektir. 8 gram protein içerir. Kas onarımını destekler."},
+
+{"instruction":"1 porsiyon hamburger kaç kaloridir?","input":"","output":"1 adet hamburger yaklaşık 500-700 kaloridir. Yağ ve karbonhidrat oranı yüksektir. Soslarla birlikte daha da artar."},
+{"instruction":"Diyet yaparken kaç litre su içilmeli?","input":"","output":"Diyette günlük 2-2.5 litre su içilmelidir. Su metabolizmayı destekler. Açlık hissini azaltabilir."},
+{"instruction":"1 adet muz spor sonrası iyi midir?","input":"","output":"Evet, 1 muz yaklaşık 100 kalori ve 27 gram karbonhidrat içerir. Glikojen depolarını yeniler. Spor sonrası için uygundur."},
+{"instruction":"Günde kaç kalori almak çok düşüktür?","input":"","output":"1200 kalorinin altı genelde çok düşüktür. Bu seviyede beslenme kas kaybına neden olabilir. Uzun süre önerilmez."},
+{"instruction":"1 porsiyon pilav üstü tavuk kaç kaloridir?","input":"","output":"1 porsiyon pilav üstü tavuk yaklaşık 600-700 kaloridir. Hem protein hem karbonhidrat içerir. Doyurucu bir öğündür."},
+
+{"instruction":"Spor yaparken aç kalınır mı?","input":"","output":"Spor yaparken aç kalmak performansı düşürür. Egzersiz öncesi 150-300 kalorilik bir öğün önerilir. Enerji sağlar."},
+{"instruction":"1 adet çilek kaç kaloridir?","input":"","output":"1 adet çilek yaklaşık 4 kaloridir. 100 gramı yaklaşık 30 kaloridir. Düşük kalorili bir meyvedir."},
+{"instruction":"Günde kaç gram yağ fazla olur?","input":"","output":"Günlük 80-90 gramdan fazla yağ tüketimi yüksek sayılır. Bu 2000 kalorilik diyette %35’in üzerindedir. Dengeli tüketilmelidir."},
+{"instruction":"1 porsiyon sütlaç kaç kaloridir?","input":"","output":"1 porsiyon sütlaç yaklaşık 200-250 kaloridir. Şeker içerdiği için ölçülü tüketilmelidir. Sütlü olduğu için protein de sağlar."},
+{"instruction":"Kas yapmak için kaç öğün yemek gerekir?","input":"","output":"Kas yapmak için günde 4-6 öğün önerilir. Her öğünde 20-30 gram protein alınmalıdır. Bu kas sentezini destekler."},
+
+{"instruction":"1 adet simit kaç kaloridir?","input":"","output":"1 adet simit yaklaşık 300 kaloridir. 50 gram karbonhidrat içerir. Yağ oranı düşüktür."},
+{"instruction":"Diyet yaparken gece acıkınca ne yenmeli?","input":"","output":"Gece acıkınca 1 kase yoğurt veya 10 badem tüketilebilir. Bu yaklaşık 100-150 kalori eder. Hafif ve tok tutar."},
+{"instruction":"1 porsiyon mercimek yemeği kaç kaloridir?","input":"","output":"1 porsiyon mercimek yemeği yaklaşık 250 kaloridir. 15 gram protein içerir. Lif açısından zengindir."},
+{"instruction":"Spor sonrası kaç saat içinde yemek yenmeli?","input":"","output":"Spor sonrası ilk 1 saat içinde yemek yenmelidir. Bu dönemde 20-30 gram protein alınması önerilir. Kas onarımı hızlanır."},
+{"instruction":"1 adet poğaça kaç kaloridir?","input":"","output":"1 adet poğaça yaklaşık 250-300 kaloridir. Yağ oranı yüksektir. Diyette sınırlı tüketilmelidir."}
+
+
+
+
+]
+
